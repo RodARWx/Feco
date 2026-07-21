@@ -1,0 +1,118 @@
+{
+  "units": [
+    {
+      "id": "u1",
+      "title": "Prueba Sumativa Parcial (Casos Oficiales)",
+      "questions": [
+        {
+          "id": "q1_1",
+          "text": "Una empresa internacional de comercio electrónico incrementa en un 8% el precio de su servicio Premium debido a un impuesto digital. Más del 40% de sus clientes cancela la suscripción y migra a plataformas competidoras. ¿Qué conclusión económica es la más adecuada?",
+          "options": [
+            { "id": "o1", "text": "El incremento del precio aumentó el bienestar del consumidor." },
+            { "id": "o2", "text": "El servicio posee una demanda altamente elástica." },
+            { "id": "o3", "text": "El impuesto fue absorbido completamente por la empresa." },
+            { "id": "o4", "text": "La demanda es perfectamente inelástica." }
+          ],
+          "correctOptionId": "o2",
+          "explanation": "La demanda elástica ocurre cuando la variación porcentual de la cantidad demandada (40%) es mayor que la variación porcentual del precio (8%). Los consumidores son muy sensibles al cambio de precio y tienen sustitutos (plataformas competidoras)."
+        },
+        {
+          "id": "q1_2",
+          "text": "Una empresa ecuatoriana desarrolla software ERP para pequeñas empresas. El incremento de aranceles sobre equipos informáticos provoca que muchos de sus clientes posterguen la modernización tecnológica debido al aumento de la inversión requerida. ¿Cuál es el efecto económico indirecto más relevante?",
+          "options": [
+            { "id": "o1", "text": "Disminución de la demanda derivada de servicios tecnológicos debido al incremento en el costo de los bienes complementarios." },
+            { "id": "o2", "text": "Incremento inmediato del consumo tecnológico." },
+            { "id": "o3", "text": "Eliminación del costo de oportunidad." },
+            { "id": "o4", "text": "Reducción permanente de la inflación." }
+          ],
+          "correctOptionId": "o1",
+          "explanation": "El hardware (equipos) y el software (ERP) son bienes complementarios. Al encarecerse el hardware por los aranceles, disminuye la cantidad demandada de este, lo que a su vez contrae la demanda de su bien complementario (el software)."
+        },
+        {
+          "id": "q1_3",
+          "text": "Una startup ecuatoriana desarrolla aplicaciones móviles para empresas. El Gobierno decide reducir los impuestos sobre equipos informáticos importados utilizados para desarrollo de software. La empresa invierte inmediatamente en nuevos servidores, aumentando su productividad y reduciendo sus costos de producción. ¿Cuál principio económico explica mejor esta decisión?",
+          "options": [
+            { "id": "o1", "text": "El mercado pierde eficiencia porque aumenta la inversión." },
+            { "id": "o2", "text": "La reducción de impuestos disminuye automáticamente la demanda del servicio." },
+            { "id": "o3", "text": "La elasticidad de la demanda desaparece cuando existen incentivos tributarios." },
+            { "id": "o4", "text": "La disminución de impuestos puede desplazar la oferta hacia la derecha al reducir costos de producción." }
+          ],
+          "correctOptionId": "o4",
+          "explanation": "La reducción de impuestos actúa como un incentivo positivo que disminuye los costos de producción, permitiendo a la empresa producir más a cualquier nivel de precios (desplazamiento de la oferta a la derecha)."
+        },
+        {
+          "id": "q1_4",
+          "text": "Una startup de desarrollo de software utiliza servicios de nube internacional para almacenar millones de registros financieros. Como resultado de nuevas restricciones comerciales, el proveedor incrementa sus tarifas debido al aumento del costo de infraestructura. ¿Cuál será el impacto más probable sobre el mercado?",
+          "options": [
+            { "id": "o1", "text": "Incremento automático del bienestar del consumidor." },
+            { "id": "o2", "text": "Eliminación de la competencia internacional." },
+            { "id": "o3", "text": "Disminución de la oferta de la startup, reflejada en un desplazamiento de su curva hacia la izquierda por mayores costos." },
+            { "id": "o4", "text": "Aumento inmediato de la cantidad demandada." }
+          ],
+          "correctOptionId": "o3",
+          "explanation": "Un aumento en el costo de los insumos (servicios de nube) eleva los costos de producción de la startup. Esto reduce su capacidad de ofrecer el servicio al mismo precio, desplazando la curva de oferta hacia la izquierda."
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "title": "Costo de Oportunidad y FPP (Casos Generados)",
+      "questions": [
+        {
+          "id": "q2_1",
+          "text": "Un estudiante universitario recibe una beca de $500 mensuales que requiere que dedique 20 horas semanales a investigar en el laboratorio. Alternativamente, podría trabajar en una cafetería ganando $600 mensuales por las mismas 20 horas, pero no obtendría experiencia académica. Si el estudiante elige la beca, ¿cuál es su costo de oportunidad?",
+          "options": [
+            { "id": "o1", "text": "$100, la diferencia entre los salarios." },
+            { "id": "o2", "text": "$600 mensuales más la experiencia de trabajar en la cafetería." },
+            { "id": "o3", "text": "La experiencia académica que obtendrá en el laboratorio." },
+            { "id": "o4", "text": "Las 20 horas de su tiempo." }
+          ],
+          "correctOptionId": "o2",
+          "explanation": "El costo de oportunidad es la mejor alternativa a la que se renuncia. Al elegir la beca, el estudiante renuncia directamente a los $600 que ganaría en la cafetería y a la experiencia laboral de ese entorno."
+        },
+        {
+          "id": "q2_2",
+          "text": "Una economía que produce exclusivamente dos bienes: computadoras y trigo, se encuentra operando sobre su Frontera de Posibilidades de Producción (FPP). Si el gobierno decide subsidiar fuertemente la industria tecnológica para fabricar más computadoras, el efecto inmediato en la producción será:",
+          "options": [
+            { "id": "o1", "text": "Un aumento en la producción de computadoras sin afectar la producción de trigo." },
+            { "id": "o2", "text": "Un desplazamiento de toda la FPP hacia la derecha." },
+            { "id": "o3", "text": "Una reducción inevitable en la producción de trigo." },
+            { "id": "o4", "text": "Un aumento del desempleo en el sector agrícola." }
+          ],
+          "correctOptionId": "o3",
+          "explanation": "Si la economía ya opera sobre la FPP, significa que todos los recursos están empleados eficientemente. Para producir más de un bien (computadoras), necesariamente se deben trasladar recursos de la producción del otro bien (trigo), reduciendo su cantidad producida."
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "title": "Externalidades e Intervención (Casos Generados)",
+      "questions": [
+        {
+          "id": "q3_1",
+          "text": "Una empresa minera descubre un nuevo yacimiento y comienza a operar cerca de una ciudad turística. Aunque la minera crea empleos, la contaminación visual y el ruido disminuyen los ingresos de los hoteles locales en un 30%. Si el mercado opera sin intervención, la cantidad producida de minerales será:",
+          "options": [
+            { "id": "o1", "text": "Menor que el óptimo social, ya que no se consideran los empleos." },
+            { "id": "o2", "text": "Mayor que el óptimo social, porque el mercado ignora los costos impuestos al sector turístico." },
+            { "id": "o3", "text": "Socialmente óptima, ya que la empresa maximiza sus propios beneficios." },
+            { "id": "o4", "text": "Igual a cero, hasta que el gobierno intervenga." }
+          ],
+          "correctOptionId": "o2",
+          "explanation": "Este es un caso clásico de externalidad negativa en la producción. El costo privado de la mina es menor que el costo social (que incluye las pérdidas de los hoteles). Por lo tanto, el mercado libre sobreproduce el bien en relación al nivel que maximizaría el bienestar social."
+        },
+        {
+          "id": "q3_2",
+          "text": "Para incentivar la adopción de vehículos eléctricos, el gobierno decide instalar estaciones de carga gratuita en todas las carreteras principales. Como resultado, las ventas de vehículos eléctricos se triplican. Desde la perspectiva económica, las estaciones de carga y los vehículos eléctricos actúan como:",
+          "options": [
+            { "id": "o1", "text": "Bienes sustitutos." },
+            { "id": "o2", "text": "Bienes complementarios." },
+            { "id": "o3", "text": "Bienes inferiores." },
+            { "id": "o4", "text": "Bienes Giffen." }
+          ],
+          "correctOptionId": "o2",
+          "explanation": "Son bienes complementarios porque se consumen en conjunto. Cuando el gobierno reduce el costo de uso de uno (haciendo las estaciones gratuitas), aumenta la demanda del otro (vehículos eléctricos)."
+        }
+      ]
+    }
+  ]
+}
