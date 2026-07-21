@@ -23,7 +23,7 @@ function App() {
   }, [theme]);
 
   return (
-    <Router>
+    <Router basename="/Feco">
       <Routes>
         <Route path="/" element={<DashboardLayout />}>
           <Route index element={<Dashboard />} />
