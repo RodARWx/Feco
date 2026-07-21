@@ -1,4 +1,3 @@
-import React from 'react';
 import bankData from '../data/question_bank.json';
 import { Card, CardHeader, CardTitle, CardContent } from '../components/ui/card';
 import { ScrollArea } from '../components/ui/scroll-area';
