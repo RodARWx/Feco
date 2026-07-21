@@ -2,115 +2,5453 @@
   "units": [
     {
       "id": "u1",
-      "title": "Prueba Sumativa Parcial (Casos Oficiales)",
+      "title": "Cuestionario sumativa 1_ Revisión del intento _ UCE",
       "questions": [
         {
-          "id": "q1_1",
-          "text": "Una empresa internacional de comercio electrónico incrementa en un 8% el precio de su servicio Premium debido a un impuesto digital. Más del 40% de sus clientes cancela la suscripción y migra a plataformas competidoras. ¿Qué conclusión económica es la más adecuada?",
+          "id": "qu1_1",
+          "text": "P30. Una organización adopta inteligencia artificial para automatizar procesos administrativos. El efecto económico más probable es:",
           "options": [
-            { "id": "o1", "text": "El incremento del precio aumentó el bienestar del consumidor." },
-            { "id": "o2", "text": "El servicio posee una demanda altamente elástica." },
-            { "id": "o3", "text": "El impuesto fue absorbido completamente por la empresa." },
-            { "id": "o4", "text": "La demanda es perfectamente inelástica." }
+            {
+              "id": "o1",
+              "text": "Eliminación del costo de oportunidad"
+            },
+            {
+              "id": "o2",
+              "text": "Incremento de productividad y reducción de costos marginales"
+            },
+            {
+              "id": "o3",
+              "text": "Disminución de eficiencia"
+            },
+            {
+              "id": "o4",
+              "text": "Reducción inmediata de demanda"
+            },
+            {
+              "id": "o5",
+              "text": "edu.ec/mod/quiz/review.php?attempt=193537&cmid=413381 \t1/16"
+            }
           ],
-          "correctOptionId": "o2",
-          "explanation": "La demanda elástica ocurre cuando la variación porcentual de la cantidad demandada (40%) es mayor que la variación porcentual del precio (8%). Los consumidores son muy sensibles al cambio de precio y tienen sustitutos (plataformas competidoras)."
+          "correctOptionId": "o5",
+          "explanation": ""
         },
         {
-          "id": "q1_2",
-          "text": "Una empresa ecuatoriana desarrolla software ERP para pequeñas empresas. El incremento de aranceles sobre equipos informáticos provoca que muchos de sus clientes posterguen la modernización tecnológica debido al aumento de la inversión requerida. ¿Cuál es el efecto económico indirecto más relevante?",
+          "id": "qu1_2",
+          "text": "P6. Una compañía reduce el precio de almacenamiento en la nube y aumenta significativamente el número de usuarios. Este comportamiento evidencia:",
           "options": [
-            { "id": "o1", "text": "Disminución de la demanda derivada de servicios tecnológicos debido al incremento en el costo de los bienes complementarios." },
-            { "id": "o2", "text": "Incremento inmediato del consumo tecnológico." },
-            { "id": "o3", "text": "Eliminación del costo de oportunidad." },
-            { "id": "o4", "text": "Reducción permanente de la inflación." }
+            {
+              "id": "o1",
+              "text": "Ley de oferta"
+            },
+            {
+              "id": "o2",
+              "text": "Ley de demanda"
+            },
+            {
+              "id": "o3",
+              "text": "Política monetaria"
+            },
+            {
+              "id": "o4",
+              "text": "Ley de rendimientos decrecientes"
+            },
+            {
+              "id": "o5",
+              "text": "No ocurre efecto alguno"
+            },
+            {
+              "id": "o6",
+              "text": "Los salarios tenderán a aumentar"
+            },
+            {
+              "id": "o7",
+              "text": "Disminuirá la productividad"
+            },
+            {
+              "id": "o8",
+              "text": "Los salarios tenderán a disminuir"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=193537&cmid=413381 \t2/16"
+            }
           ],
-          "correctOptionId": "o1",
-          "explanation": "El hardware (equipos) y el software (ERP) son bienes complementarios. Al encarecerse el hardware por los aranceles, disminuye la cantidad demandada de este, lo que a su vez contrae la demanda de su bien complementario (el software)."
+          "correctOptionId": "o9",
+          "explanation": ""
         },
         {
-          "id": "q1_3",
-          "text": "Una startup ecuatoriana desarrolla aplicaciones móviles para empresas. El Gobierno decide reducir los impuestos sobre equipos informáticos importados utilizados para desarrollo de software. La empresa invierte inmediatamente en nuevos servidores, aumentando su productividad y reduciendo sus costos de producción. ¿Cuál principio económico explica mejor esta decisión?",
+          "id": "qu1_3",
+          "text": "P28. Si los consumidores esperan aumentos futuros de precios:",
           "options": [
-            { "id": "o1", "text": "El mercado pierde eficiencia porque aumenta la inversión." },
-            { "id": "o2", "text": "La reducción de impuestos disminuye automáticamente la demanda del servicio." },
-            { "id": "o3", "text": "La elasticidad de la demanda desaparece cuando existen incentivos tributarios." },
-            { "id": "o4", "text": "La disminución de impuestos puede desplazar la oferta hacia la derecha al reducir costos de producción." }
+            {
+              "id": "o1",
+              "text": "Aumenta demanda actual"
+            },
+            {
+              "id": "o2",
+              "text": "La elasticidad desaparece"
+            },
+            {
+              "id": "o3",
+              "text": "La oferta disminuye"
+            },
+            {
+              "id": "o4",
+              "text": "Disminuye demanda actual"
+            },
+            {
+              "id": "o5",
+              "text": "Instituciones financieras"
+            },
+            {
+              "id": "o6",
+              "text": "Compradores de factores productivos "
+            },
+            {
+              "id": "o7",
+              "text": "Vendedores de factores productivos"
+            },
+            {
+              "id": "o8",
+              "text": "Reguladores de mercado"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=193537&cmid=413381 \t3/16"
+            }
           ],
-          "correctOptionId": "o4",
-          "explanation": "La reducción de impuestos actúa como un incentivo positivo que disminuye los costos de producción, permitiendo a la empresa producir más a cualquier nivel de precios (desplazamiento de la oferta a la derecha)."
+          "correctOptionId": "o9",
+          "explanation": ""
         },
         {
-          "id": "q1_4",
-          "text": "Una startup de desarrollo de software utiliza servicios de nube internacional para almacenar millones de registros financieros. Como resultado de nuevas restricciones comerciales, el proveedor incrementa sus tarifas debido al aumento del costo de infraestructura. ¿Cuál será el impacto más probable sobre el mercado?",
+          "id": "qu1_4",
+          "text": "P15. Si el gobierno establece un precio máximo inferior al precio de equilibrio:",
           "options": [
-            { "id": "o1", "text": "Incremento automático del bienestar del consumidor." },
-            { "id": "o2", "text": "Eliminación de la competencia internacional." },
-            { "id": "o3", "text": "Disminución de la oferta de la startup, reflejada en un desplazamiento de su curva hacia la izquierda por mayores costos." },
-            { "id": "o4", "text": "Aumento inmediato de la cantidad demandada." }
+            {
+              "id": "o1",
+              "text": "Se genera exceso de oferta "
+            },
+            {
+              "id": "o2",
+              "text": "Incrementan ingresos empresariales"
+            },
+            {
+              "id": "o3",
+              "text": "Se genera escasez"
+            },
+            {
+              "id": "o4",
+              "text": "Aumenta la eficiencia"
+            },
+            {
+              "id": "o5",
+              "text": "Desplazamiento de la oferta hacia la derecha "
+            },
+            {
+              "id": "o6",
+              "text": "Aumento automático de ventas"
+            },
+            {
+              "id": "o7",
+              "text": "Movimiento sobre la curva de demanda"
+            },
+            {
+              "id": "o8",
+              "text": "Desplazamiento de la oferta hacia la izquierda"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=193537&cmid=413381 \t4/16"
+            }
           ],
-          "correctOptionId": "o3",
-          "explanation": "Un aumento en el costo de los insumos (servicios de nube) eleva los costos de producción de la startup. Esto reduce su capacidad de ofrecer el servicio al mismo precio, desplazando la curva de oferta hacia la izquierda."
+          "correctOptionId": "o9",
+          "explanation": ""
+        },
+        {
+          "id": "qu1_5",
+          "text": "P21. La productividad laboral incrementa principalmente mediante:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Reducción de competencia"
+            },
+            {
+              "id": "o2",
+              "text": "Aumento de horas laborales"
+            },
+            {
+              "id": "o3",
+              "text": "Capacitación y tecnología"
+            },
+            {
+              "id": "o4",
+              "text": "Reducción salarial"
+            },
+            {
+              "id": "o5",
+              "text": "Aumenta la inversión privada"
+            },
+            {
+              "id": "o6",
+              "text": "Se incrementa el crédito disponible"
+            },
+            {
+              "id": "o7",
+              "text": "Disminuye el acceso al crédito"
+            },
+            {
+              "id": "o8",
+              "text": "Aumenta el consumo inmediato"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=193537&cmid=413381 \t5/16"
+            }
+          ],
+          "correctOptionId": "o9",
+          "explanation": ""
+        },
+        {
+          "id": "qu1_6",
+          "text": "P20. Una externalidad negativa ocurre cuando:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "La inflación disminuye"
+            },
+            {
+              "id": "o2",
+              "text": "Existen efectos económicos no reflejados en precios"
+            },
+            {
+              "id": "o3",
+              "text": "Los consumidores reducen demanda"
+            },
+            {
+              "id": "o4",
+              "text": "El mercado genera beneficios sociales adicionales"
+            },
+            {
+              "id": "o5",
+              "text": "Elasticidad perfecta "
+            },
+            {
+              "id": "o6",
+              "text": "Elasticidad unitaria"
+            },
+            {
+              "id": "o7",
+              "text": "Demanda inelástica"
+            },
+            {
+              "id": "o8",
+              "text": "Demanda elástica"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=193537&cmid=413381 \t6/16"
+            }
+          ],
+          "correctOptionId": "o9",
+          "explanation": ""
+        },
+        {
+          "id": "qu1_7",
+          "text": "P26. En un mercado competitivo el precio se determina por:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "El gobierno"
+            },
+            {
+              "id": "o2",
+              "text": "Interacción entre oferta y demanda"
+            },
+            {
+              "id": "o3",
+              "text": "El consumidor individual"
+            },
+            {
+              "id": "o4",
+              "text": "Las empresas líderes"
+            },
+            {
+              "id": "o5",
+              "text": "Equidad"
+            },
+            {
+              "id": "o6",
+              "text": "Escasez"
+            },
+            {
+              "id": "o7",
+              "text": "Productividad marginal decreciente"
+            },
+            {
+              "id": "o8",
+              "text": "Costo de oportunidad"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=193537&cmid=413381 \t7/16"
+            }
+          ],
+          "correctOptionId": "o9",
+          "explanation": ""
+        },
+        {
+          "id": "qu1_8",
+          "text": "P4. Si el precio de suscripciones a plataformas de streaming aumenta un 15% y la demanda disminuye un 30%, la demanda puede clasificarse como:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Elasticidad unitaria"
+            },
+            {
+              "id": "o2",
+              "text": "Perfectamente inelástica"
+            },
+            {
+              "id": "o3",
+              "text": "Inelástica "
+            },
+            {
+              "id": "o4",
+              "text": "Elástica"
+            },
+            {
+              "id": "o5",
+              "text": "Gran sensibilidad a precios"
+            },
+            {
+              "id": "o6",
+              "text": "Cantidad constante ante cambios de precio"
+            },
+            {
+              "id": "o7",
+              "text": "Variación proporcional entre precio y cantidad "
+            },
+            {
+              "id": "o8",
+              "text": "Elasticidad positiva infinita"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=193537&cmid=413381 \t8/16"
+            }
+          ],
+          "correctOptionId": "o9",
+          "explanation": ""
+        },
+        {
+          "id": "qu1_9",
+          "text": "P11. Cuando un país aumenta productividad mediante automatización industrial:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "La FPP se desplaza hacia adentro"
+            },
+            {
+              "id": "o2",
+              "text": "La economía entra automáticamente en recesión"
+            },
+            {
+              "id": "o3",
+              "text": "La FPP se desplaza hacia afuera"
+            },
+            {
+              "id": "o4",
+              "text": "La FPP permanece constante"
+            },
+            {
+              "id": "o5",
+              "text": "Utiliza plenamente recursos"
+            },
+            {
+              "id": "o6",
+              "text": "Existe crecimiento económico "
+            },
+            {
+              "id": "o7",
+              "text": "Hay recursos subutilizados"
+            },
+            {
+              "id": "o8",
+              "text": "Existe eficiencia máxima"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=193537&cmid=413381 \t9/16"
+            }
+          ],
+          "correctOptionId": "o9",
+          "explanation": ""
+        },
+        {
+          "id": "qu1_10",
+          "text": "P2. Una economía opera sobre su Frontera de Posibilidades de Producción (FPP). Si decide incrementar la producción de servicios digitales especializados:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "El costo de oportunidad desaparece"
+            },
+            {
+              "id": "o2",
+              "text": "Puede aumentar simultáneamente todos los demás bienes "
+            },
+            {
+              "id": "o3",
+              "text": "Debe renunciar parcialmente a otro producto"
+            },
+            {
+              "id": "o4",
+              "text": "No afecta la producción existente"
+            },
+            {
+              "id": "o5",
+              "text": "Demanda unitaria"
+            },
+            {
+              "id": "o6",
+              "text": "Demanda elástica"
+            },
+            {
+              "id": "o7",
+              "text": "Demanda perfectamente inelástica "
+            },
+            {
+              "id": "o8",
+              "text": "Demanda inelástica"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=193537&cmid=413381 \t10/16"
+            }
+          ],
+          "correctOptionId": "o9",
+          "explanation": ""
+        },
+        {
+          "id": "qu1_11",
+          "text": "P7. La diferencia entre microeconomía y macroeconomía consiste en:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "La micro estudia fenómenos agregados y la macro individuos"
+            },
+            {
+              "id": "o2",
+              "text": "La macro no analiza empresas"
+            },
+            {
+              "id": "o3",
+              "text": "La micro analiza agentes específicos y la macro variables globales"
+            },
+            {
+              "id": "o4",
+              "text": "Ambas estudian exactamente lo mismo"
+            },
+            {
+              "id": "o5",
+              "text": "Comparar beneficios y costos adicionales"
+            },
+            {
+              "id": "o6",
+              "text": "Analizar costos históricos únicamente"
+            },
+            {
+              "id": "o7",
+              "text": "Ignorar riesgos futuros"
+            },
+            {
+              "id": "o8",
+              "text": "Evaluar decisiones emocionales"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=193537&cmid=413381 \t11/16"
+            }
+          ],
+          "correctOptionId": "o9",
+          "explanation": ""
+        },
+        {
+          "id": "qu1_12",
+          "text": "P3. Un estudiante de Sistemas invierte 8 horas diarias desarrollando una startup tecnológica y abandona un empleo remunerado. El costo de oportunidad incluye:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Solo los gastos operativos"
+            },
+            {
+              "id": "o2",
+              "text": "El costo de equipos informáticos"
+            },
+            {
+              "id": "o3",
+              "text": "Únicamente el salario perdido"
+            },
+            {
+              "id": "o4",
+              "text": "El tiempo utilizado y beneficios futuros sacrificados"
+            },
+            {
+              "id": "o5",
+              "text": "Desplazamiento de la curva de demanda hacia la derecha"
+            },
+            {
+              "id": "o6",
+              "text": "Desplazamiento de oferta"
+            },
+            {
+              "id": "o7",
+              "text": "Movimiento sobre la curva de demanda"
+            },
+            {
+              "id": "o8",
+              "text": "Elasticidad cruzada"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=193537&cmid=413381 \t12/16"
+            }
+          ],
+          "correctOptionId": "o9",
+          "explanation": ""
+        },
+        {
+          "id": "qu1_13",
+          "text": "P19. Una innovación tecnológica que reduce costos operativos ocasionará:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Desplazamiento hacia la izquierda"
+            },
+            {
+              "id": "o2",
+              "text": "Contracción de demanda"
+            },
+            {
+              "id": "o3",
+              "text": "Reducción automática de precios finales"
+            },
+            {
+              "id": "o4",
+              "text": "Desplazamiento de oferta hacia la derecha"
+            },
+            {
+              "id": "o5",
+              "text": "Incluir todas las variables posibles"
+            },
+            {
+              "id": "o6",
+              "text": "Replicar exactamente la realidad"
+            },
+            {
+              "id": "o7",
+              "text": "Evitar supuestos"
+            },
+            {
+              "id": "o8",
+              "text": "Simplificar manteniendo relaciones esenciales"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=193537&cmid=413381 \t13/16"
+            }
+          ],
+          "correctOptionId": "o9",
+          "explanation": ""
+        },
+        {
+          "id": "qu1_14",
+          "text": "P12. La elasticidad cruzada positiva entre computadoras portátiles y tabletas indica que son:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Independientes"
+            },
+            {
+              "id": "o2",
+              "text": "Complementarios"
+            },
+            {
+              "id": "o3",
+              "text": "Sustitutos"
+            },
+            {
+              "id": "o4",
+              "text": "Inferiores "
+            },
+            {
+              "id": "o5",
+              "text": "Elimina el mercado"
+            },
+            {
+              "id": "o6",
+              "text": "Genera menor recaudación"
+            },
+            {
+              "id": "o7",
+              "text": "Reduce significativamente el consumo"
+            },
+            {
+              "id": "o8",
+              "text": "Traslada gran parte del costo al consumidor"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=193537&cmid=413381 \t14/16"
+            }
+          ],
+          "correctOptionId": "o9",
+          "explanation": ""
+        },
+        {
+          "id": "qu1_15",
+          "text": "P25. Una reducción de impuestos empresariales generalmente busca:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Disminuir empleo"
+            },
+            {
+              "id": "o2",
+              "text": "Reducir producción"
+            },
+            {
+              "id": "o3",
+              "text": "Incentivar inversión y oferta"
+            },
+            {
+              "id": "o4",
+              "text": "Reducir competencia"
+            },
+            {
+              "id": "o5",
+              "text": "Reducción tecnológica"
+            },
+            {
+              "id": "o6",
+              "text": "Mayor productividad y capacidad productiva"
+            },
+            {
+              "id": "o7",
+              "text": "Incremento permanente de precios"
+            },
+            {
+              "id": "o8",
+              "text": "Aumento del desempleo"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=193537&cmid=413381 \t15/16"
+            }
+          ],
+          "correctOptionId": "o9",
+          "explanation": ""
+        },
+        {
+          "id": "qu1_16",
+          "text": "P1. Una empresa de desarrollo de software posee un equipo de servidores limitado. Si decide utilizarlos para entrenamiento de modelos de IA en lugar de alojamiento web tradicional, el costo de oportunidad será:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Los beneficios potenciales perdidos del servicio de alojamiento web"
+            },
+            {
+              "id": "o2",
+              "text": "El costo de mantenimiento de infraestructura"
+            },
+            {
+              "id": "o3",
+              "text": "El ingreso generado por IA"
+            },
+            {
+              "id": "o4",
+              "text": "El costo energético de los servidores"
+            },
+            {
+              "id": "o5",
+              "text": "edu.ec/mod/quiz/review.php?attempt=193537&cmid=413381 \t16/16"
+            }
+          ],
+          "correctOptionId": "o5",
+          "explanation": ""
         }
       ]
     },
     {
       "id": "u2",
-      "title": "Costo de Oportunidad y FPP (Casos Generados)",
+      "title": "Cuestionario U1 T2",
       "questions": [
         {
-          "id": "q2_1",
-          "text": "Un estudiante universitario recibe una beca de $500 mensuales que requiere que dedique 20 horas semanales a investigar en el laboratorio. Alternativamente, podría trabajar en una cafetería ganando $600 mensuales por las mismas 20 horas, pero no obtendría experiencia académica. Si el estudiante elige la beca, ¿cuál es su costo de oportunidad?",
+          "id": "qu2_1",
+          "text": "La principal diferencia entre el análisis descriptivo y el analítico en economía es que:",
           "options": [
-            { "id": "o1", "text": "$100, la diferencia entre los salarios." },
-            { "id": "o2", "text": "$600 mensuales más la experiencia de trabajar en la cafetería." },
-            { "id": "o3", "text": "La experiencia académica que obtendrá en el laboratorio." },
-            { "id": "o4", "text": "Las 20 horas de su tiempo." }
-          ],
-          "correctOptionId": "o2",
-          "explanation": "El costo de oportunidad es la mejor alternativa a la que se renuncia. Al elegir la beca, el estudiante renuncia directamente a los $600 que ganaría en la cafetería y a la experiencia laboral de ese entorno."
-        },
-        {
-          "id": "q2_2",
-          "text": "Una economía que produce exclusivamente dos bienes: computadoras y trigo, se encuentra operando sobre su Frontera de Posibilidades de Producción (FPP). Si el gobierno decide subsidiar fuertemente la industria tecnológica para fabricar más computadoras, el efecto inmediato en la producción será:",
-          "options": [
-            { "id": "o1", "text": "Un aumento en la producción de computadoras sin afectar la producción de trigo." },
-            { "id": "o2", "text": "Un desplazamiento de toda la FPP hacia la derecha." },
-            { "id": "o3", "text": "Una reducción inevitable en la producción de trigo." },
-            { "id": "o4", "text": "Un aumento del desempleo en el sector agrícola." }
+            {
+              "id": "o1",
+              "text": "El analítico depende de juicios morales para interpretar datos."
+            },
+            {
+              "id": "o2",
+              "text": "Ambos son sinónimos en la metodología económic"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "El descriptivo observa la realidad, y el analítico explica las causas mediante razonamiento lógico."
+            },
+            {
+              "id": "o5",
+              "text": "El descriptivo usa razonamientos abstractos, mientras el analítico recoge hechos."
+            },
+            {
+              "id": "o6",
+              "text": "edu.ec/mod/quiz/review.php?attempt=6780&cmid=44292#question-7242-16 \t1/11"
+            }
           ],
           "correctOptionId": "o3",
-          "explanation": "Si la economía ya opera sobre la FPP, significa que todos los recursos están empleados eficientemente. Para producir más de un bien (computadoras), necesariamente se deben trasladar recursos de la producción del otro bien (trigo), reduciendo su cantidad producida."
+          "explanation": ""
+        },
+        {
+          "id": "qu2_2",
+          "text": "Si un economista plantea que “los hogares aumentarán su consumo si los ingresos suben”, está haciendo:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Un juicio moral"
+            },
+            {
+              "id": "o2",
+              "text": "Una proposición positiva verificable"
+            },
+            {
+              "id": "o3",
+              "text": "Una observación normativa"
+            },
+            {
+              "id": "o4",
+              "text": "Una conclusión sin base empírica"
+            },
+            {
+              "id": "o5",
+              "text": "Un enfoque normativo"
+            },
+            {
+              "id": "o6",
+              "text": "Un método analítico"
+            },
+            {
+              "id": "o7",
+              "text": "Un método descriptivo"
+            },
+            {
+              "id": "o8",
+              "text": "Una técnica contable"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=6780&cmid=44292#question-7242-16 \t2/11"
+            }
+          ],
+          "correctOptionId": "o8",
+          "explanation": ""
+        },
+        {
+          "id": "qu2_3",
+          "text": "En economía, los supuestos se utilizan principalmente para:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Sustituir la observación empírica por juicios de valor."
+            },
+            {
+              "id": "o2",
+              "text": "Evitar el uso de datos y teorías en el análisis."
+            },
+            {
+              "id": "o3",
+              "text": "Simplificar la realidad y centrarse en los factores esenciales del problem"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Reflejar con exactitud todos los elementos de la realida"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "19. Un análisis económico es científico cuando:"
+            },
+            {
+              "id": "o8",
+              "text": "Se basa en creencias personales del investigador."
+            },
+            {
+              "id": "o9",
+              "text": "Utiliza observación, hipótesis y contrastación empíric"
+            },
+            {
+              "id": "o10",
+              "text": ""
+            },
+            {
+              "id": "o11",
+              "text": "Rechaza el uso de teorías abstractas."
+            },
+            {
+              "id": "o12",
+              "text": "Se apoya únicamente en experiencias subjetivas."
+            },
+            {
+              "id": "o13",
+              "text": "⌃ 19/4/26, 10:13 p.m. \tCuestionario U1 T2: Resolver el siguiente banco de preguntas: Revisión del intento | UCE https://uvirtual.uc"
+            },
+            {
+              "id": "o14",
+              "text": "edu.ec/mod/quiz/review.php?attempt=6780&cmid=44292#question-7242-16 \t3/11"
+            }
+          ],
+          "correctOptionId": "o12",
+          "explanation": ""
+        },
+        {
+          "id": "qu2_4",
+          "text": "El método científico aplicado a la economía permite:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Formular políticas públicas sin evidencia empíric"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Analizar fenómenos complejos mediante observación, teoría y verificación."
+            },
+            {
+              "id": "o4",
+              "text": "Afirmar verdades universales sin necesidad de comprobación."
+            },
+            {
+              "id": "o5",
+              "text": "Sustituir los datos reales por modelos abstractos sin contrast"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "La necesidad de basar el análisis en juicios personales."
+            },
+            {
+              "id": "o8",
+              "text": "La conveniencia de eliminar todos los supuestos para lograr neutralida"
+            },
+            {
+              "id": "o9",
+              "text": ""
+            },
+            {
+              "id": "o10",
+              "text": "La subjetividad de la investigación económic"
+            },
+            {
+              "id": "o11",
+              "text": ""
+            },
+            {
+              "id": "o12",
+              "text": "La importancia de elegir supuestos adecuados que simplifiquen sin distorsionar la realida"
+            },
+            {
+              "id": "o13",
+              "text": ""
+            },
+            {
+              "id": "o14",
+              "text": "⌃ 19/4/26, 10:13 p.m. \tCuestionario U1 T2: Resolver el siguiente banco de preguntas: Revisión del intento | UCE https://uvirtual.uc"
+            },
+            {
+              "id": "o15",
+              "text": "edu.ec/mod/quiz/review.php?attempt=6780&cmid=44292#question-7242-16 \t4/11"
+            }
+          ],
+          "correctOptionId": "o15",
+          "explanation": ""
+        },
+        {
+          "id": "qu2_5",
+          "text": "El pensamiento económico crítico exige que los estudiantes:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Memoricen teorías sin cuestionarlas."
+            },
+            {
+              "id": "o2",
+              "text": "Apliquen la lógica y los datos para analizar causas y consecuencias de un fenómeno."
+            },
+            {
+              "id": "o3",
+              "text": "Eviten el uso del método científico en temas sociales."
+            },
+            {
+              "id": "o4",
+              "text": "Acepten las conclusiones de los economistas reconocidos sin debat"
+            },
+            {
+              "id": "o5",
+              "text": ""
+            },
+            {
+              "id": "o6",
+              "text": "Depende del lenguaje coloquial para interpretar hechos económicos."
+            },
+            {
+              "id": "o7",
+              "text": "Usa conceptos comunes con otras ciencias sociales."
+            },
+            {
+              "id": "o8",
+              "text": "Emplea únicamente símbolos matemáticos."
+            },
+            {
+              "id": "o9",
+              "text": "Posee terminología específica que permite expresar ideas con precisión analític"
+            },
+            {
+              "id": "o10",
+              "text": ""
+            },
+            {
+              "id": "o11",
+              "text": "⌃ 19/4/26, 10:13 p.m. \tCuestionario U1 T2: Resolver el siguiente banco de preguntas: Revisión del intento | UCE https://uvirtual.uc"
+            },
+            {
+              "id": "o12",
+              "text": "edu.ec/mod/quiz/review.php?attempt=6780&cmid=44292#question-7242-16 \t5/11"
+            }
+          ],
+          "correctOptionId": "o10",
+          "explanation": ""
+        },
+        {
+          "id": "qu2_6",
+          "text": "El pensamiento científico en economía se caracteriza por:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Evitar el uso de datos para mantener la objetivida"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Emplear juicios de valor para evaluar políticas."
+            },
+            {
+              "id": "o4",
+              "text": "Basarse en observaciones aisladas sin contrastarlas."
+            },
+            {
+              "id": "o5",
+              "text": "Formular teorías y contrastarlas con la evidencia empíric"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "14. Un modelo económico no debe ser evaluado por su realismo, sino por:"
+            },
+            {
+              "id": "o8",
+              "text": "La cantidad de variables que incluy"
+            },
+            {
+              "id": "o9",
+              "text": ""
+            },
+            {
+              "id": "o10",
+              "text": "Su coincidencia con la ideología del autor."
+            },
+            {
+              "id": "o11",
+              "text": "Su capacidad para describir cada detalle de la economí"
+            },
+            {
+              "id": "o12",
+              "text": ""
+            },
+            {
+              "id": "o13",
+              "text": "Su utilidad para explicar y predecir fenómenos económicos."
+            },
+            {
+              "id": "o14",
+              "text": "edu.ec/mod/quiz/review.php?attempt=6780&cmid=44292#question-7242-16 \t6/11"
+            }
+          ],
+          "correctOptionId": "o13",
+          "explanation": ""
+        },
+        {
+          "id": "qu2_7",
+          "text": "La utilidad de los modelos económicos radica en que:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Eliminan la necesidad de observar la realida"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Garantizan resultados exactos en todo contexto."
+            },
+            {
+              "id": "o4",
+              "text": "Permiten predecir comportamientos bajo condiciones simplificadas."
+            },
+            {
+              "id": "o5",
+              "text": "Sustituyen los principios científicos por supuestos normativos."
+            },
+            {
+              "id": "o6",
+              "text": "Un enfoque descriptivo"
+            },
+            {
+              "id": "o7",
+              "text": "Un razonamiento analítico"
+            },
+            {
+              "id": "o8",
+              "text": "Un método normativo"
+            },
+            {
+              "id": "o9",
+              "text": "Un principio contable"
+            },
+            {
+              "id": "o10",
+              "text": "edu.ec/mod/quiz/review.php?attempt=6780&cmid=44292#question-7242-16 \t7/11"
+            }
+          ],
+          "correctOptionId": "o9",
+          "explanation": ""
+        },
+        {
+          "id": "qu2_8",
+          "text": "Un modelo económico bien formulado debe:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Ser totalmente idéntico a la realida"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Basarse únicamente en datos históricos."
+            },
+            {
+              "id": "o4",
+              "text": "Simplificar la realidad de manera que conserve las relaciones esenciales."
+            },
+            {
+              "id": "o5",
+              "text": "Incluir todos los factores posibles sin simplificar."
+            },
+            {
+              "id": "o6",
+              "text": "La positiva es subjetiva y la normativa es objetiv"
+            },
+            {
+              "id": "o7",
+              "text": ""
+            },
+            {
+              "id": "o8",
+              "text": "La normativa evita las hipótesis para mantenerse neutral."
+            },
+            {
+              "id": "o9",
+              "text": "Ambas se basan únicamente en observaciones empíricas."
+            },
+            {
+              "id": "o10",
+              "text": "La positiva describe hechos, la normativa expresa juicios de valor."
+            },
+            {
+              "id": "o11",
+              "text": "edu.ec/mod/quiz/review.php?attempt=6780&cmid=44292#question-7242-16 \t8/11"
+            }
+          ],
+          "correctOptionId": "o10",
+          "explanation": ""
+        },
+        {
+          "id": "qu2_9",
+          "text": "Si un economista analiza el impacto de un subsidio a los combustibles en el mercado, aplicando razonamiento lógico y datos, está actuando como:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Científico"
+            },
+            {
+              "id": "o2",
+              "text": "Político"
+            },
+            {
+              "id": "o3",
+              "text": "Contador"
+            },
+            {
+              "id": "o4",
+              "text": "Moralista"
+            },
+            {
+              "id": "o5",
+              "text": "Un enfoque normativo"
+            },
+            {
+              "id": "o6",
+              "text": "Un enfoque descriptivo"
+            },
+            {
+              "id": "o7",
+              "text": "Un análisis analítico "
+            },
+            {
+              "id": "o8",
+              "text": "Un modelo hipotético"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=6780&cmid=44292#question-7242-16 \t9/11"
+            }
+          ],
+          "correctOptionId": "o8",
+          "explanation": ""
+        },
+        {
+          "id": "qu2_10",
+          "text": "Pensar como economista implica principalmente:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Aplicar fórmulas matemáticas sin considerar el contexto humano."
+            },
+            {
+              "id": "o2",
+              "text": "Defender un punto de vista político específico."
+            },
+            {
+              "id": "o3",
+              "text": "Emitir opiniones personales sobre la política económic"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Razonar de manera lógica, objetiva y fundamentada en evidenci"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "9. ¿Cuál de las siguientes afirmaciones refleja mejor el valor de los supuestos en economía?"
+            },
+            {
+              "id": "o8",
+              "text": "Sustituyen la observación por hipótesis infundadas."
+            },
+            {
+              "id": "o9",
+              "text": "Reducen la complejidad del análisis para concentrarse en las variables clav"
+            },
+            {
+              "id": "o10",
+              "text": ""
+            },
+            {
+              "id": "o11",
+              "text": "Limitan la utilidad del pensamiento científico."
+            },
+            {
+              "id": "o12",
+              "text": "Permiten construir teorías que ignoran la realida"
+            },
+            {
+              "id": "o13",
+              "text": ""
+            },
+            {
+              "id": "o14",
+              "text": "⌃ 19/4/26, 10:13 p.m. \tCuestionario U1 T2: Resolver el siguiente banco de preguntas: Revisión del intento | UCE https://uvirtual.uc"
+            },
+            {
+              "id": "o15",
+              "text": "edu.ec/mod/quiz/review.php?attempt=6780&cmid=44292#question-7242-16 \t10/11"
+            }
+          ],
+          "correctOptionId": "o15",
+          "explanation": ""
+        },
+        {
+          "id": "qu2_11",
+          "text": "Si un investigador analiza el comportamiento del consumidor bajo el supuesto de ingresos constantes, está:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Aplicando una simplificación útil para aislar los efectos de precios."
+            },
+            {
+              "id": "o2",
+              "text": "Confundiendo descripción con prescripción."
+            },
+            {
+              "id": "o3",
+              "text": "Eliminando la validez científica del modelo."
+            },
+            {
+              "id": "o4",
+              "text": "Usando un supuesto irreal que invalida el modelo."
+            },
+            {
+              "id": "o5",
+              "text": "edu.ec/mod/quiz/review.php?attempt=6780&cmid=44292#question-7242-16 \t11/11"
+            }
+          ],
+          "correctOptionId": "o1",
+          "explanation": ""
         }
       ]
     },
     {
       "id": "u3",
-      "title": "Externalidades e Intervención (Casos Generados)",
+      "title": "Cuestionario U2 T3",
       "questions": [
         {
-          "id": "q3_1",
-          "text": "Una empresa minera descubre un nuevo yacimiento y comienza a operar cerca de una ciudad turística. Aunque la minera crea empleos, la contaminación visual y el ruido disminuyen los ingresos de los hoteles locales en un 30%. Si el mercado opera sin intervención, la cantidad producida de minerales será:",
+          "id": "qu3_1",
+          "text": "Cuando el gobierno implementa una política fiscal expansiva, el objetivo macroeconómico principal es:",
           "options": [
-            { "id": "o1", "text": "Menor que el óptimo social, ya que no se consideran los empleos." },
-            { "id": "o2", "text": "Mayor que el óptimo social, porque el mercado ignora los costos impuestos al sector turístico." },
-            { "id": "o3", "text": "Socialmente óptima, ya que la empresa maximiza sus propios beneficios." },
-            { "id": "o4", "text": "Igual a cero, hasta que el gobierno intervenga." }
+            {
+              "id": "o1",
+              "text": "Aumentar impuestos y reducir gasto"
+            },
+            {
+              "id": "o2",
+              "text": "Estimular la demanda agregada y reducir el desempleo"
+            },
+            {
+              "id": "o3",
+              "text": "Contener la inflación reduciendo el PIB"
+            },
+            {
+              "id": "o4",
+              "text": "Desincentivar la inversión privada"
+            },
+            {
+              "id": "o5",
+              "text": "edu.ec/mod/quiz/review.php?attempt=22726&cmid=44297 \t1/11"
+            }
           ],
           "correctOptionId": "o2",
-          "explanation": "Este es un caso clásico de externalidad negativa en la producción. El costo privado de la mina es menor que el costo social (que incluye las pérdidas de los hoteles). Por lo tanto, el mercado libre sobreproduce el bien en relación al nivel que maximizaría el bienestar social."
+          "explanation": ""
         },
         {
-          "id": "q3_2",
-          "text": "Para incentivar la adopción de vehículos eléctricos, el gobierno decide instalar estaciones de carga gratuita en todas las carreteras principales. Como resultado, las ventas de vehículos eléctricos se triplican. Desde la perspectiva económica, las estaciones de carga y los vehículos eléctricos actúan como:",
+          "id": "qu3_2",
+          "text": "La diferencia entre microeconomía y macroeconomía radica en que:",
           "options": [
-            { "id": "o1", "text": "Bienes sustitutos." },
-            { "id": "o2", "text": "Bienes complementarios." },
-            { "id": "o3", "text": "Bienes inferiores." },
-            { "id": "o4", "text": "Bienes Giffen." }
+            {
+              "id": "o1",
+              "text": "La micro estudia el todo y la macro los individuos"
+            },
+            {
+              "id": "o2",
+              "text": "La macro ignora el comportamiento empresarial"
+            },
+            {
+              "id": "o3",
+              "text": "La micro no se relaciona con el flujo circular"
+            },
+            {
+              "id": "o4",
+              "text": "La micro analiza agentes específicos y la macro el conjunto económico"
+            },
+            {
+              "id": "o5",
+              "text": "Disminuye el ingreso disponible de los hogares"
+            },
+            {
+              "id": "o6",
+              "text": "Desplaza la FPP hacia adentro"
+            },
+            {
+              "id": "o7",
+              "text": "Reduce la eficiencia general"
+            },
+            {
+              "id": "o8",
+              "text": "Incrementa la producción y el nivel de vida"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=22726&cmid=44297 \t2/11"
+            }
+          ],
+          "correctOptionId": "o8",
+          "explanation": ""
+        },
+        {
+          "id": "qu3_3",
+          "text": "Cuando las familias reducen su consumo por temor a la inflación, el flujo circular de la economía se:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Debilita, reduciendo la producción y el ingreso general"
+            },
+            {
+              "id": "o2",
+              "text": "Acelera porque las empresas producen más"
+            },
+            {
+              "id": "o3",
+              "text": "Expande hacia sectores no productivos"
+            },
+            {
+              "id": "o4",
+              "text": "Mantiene estable debido al gasto público"
+            },
+            {
+              "id": "o5",
+              "text": "Crecimiento económico por aumento de la capacidad productiva"
+            },
+            {
+              "id": "o6",
+              "text": "Estancamiento económico prolongado"
+            },
+            {
+              "id": "o7",
+              "text": "Aumento de precios sin variación del producto"
+            },
+            {
+              "id": "o8",
+              "text": "Reducción de la tecnología y los recursos"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=22726&cmid=44297 \t3/11"
+            }
+          ],
+          "correctOptionId": "o8",
+          "explanation": ""
+        },
+        {
+          "id": "qu3_4",
+          "text": "En el modelo del flujo circular, los hogares son oferentes en:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "El mercado de factores productivos"
+            },
+            {
+              "id": "o2",
+              "text": "El mercado de bienes y servicios"
+            },
+            {
+              "id": "o3",
+              "text": "Los bancos comerciales"
+            },
+            {
+              "id": "o4",
+              "text": "El mercado internacional"
+            },
+            {
+              "id": "o5",
+              "text": "Aumento de precios y expansión de la producción"
+            },
+            {
+              "id": "o6",
+              "text": "Estancamiento de la economía"
+            },
+            {
+              "id": "o7",
+              "text": "Reducción de precios y oferta"
+            },
+            {
+              "id": "o8",
+              "text": "Eliminación de la competencia"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=22726&cmid=44297 \t4/11"
+            }
+          ],
+          "correctOptionId": "o8",
+          "explanation": ""
+        },
+        {
+          "id": "qu3_5",
+          "text": "Si una empresa introduce una nueva tecnología que reduce costos de producción, la microeconomía analiza:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Cómo la reducción de costos altera la oferta del mercado"
+            },
+            {
+              "id": "o2",
+              "text": "El impacto en el PIB nacional"
+            },
+            {
+              "id": "o3",
+              "text": "El efecto sobre la inflación y el desempleo general"
+            },
+            {
+              "id": "o4",
+              "text": "El comportamiento fiscal del gobierno"
+            },
+            {
+              "id": "o5",
+              "text": "Utiliza todos los recursos y tecnología al máximo"
+            },
+            {
+              "id": "o6",
+              "text": "Produce dentro de su FPP"
+            },
+            {
+              "id": "o7",
+              "text": "Depende exclusivamente de la inversión extranjera"
+            },
+            {
+              "id": "o8",
+              "text": "Presenta desempleo estructural"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=22726&cmid=44297 \t5/11"
+            }
+          ],
+          "correctOptionId": "o8",
+          "explanation": ""
+        },
+        {
+          "id": "qu3_6",
+          "text": "Si el precio del petróleo aumenta y afecta el costo del transporte, el efecto inicial se analiza desde la:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Política monetaria, por cambios en la tasa de interés"
+            },
+            {
+              "id": "o2",
+              "text": "Macroeconomía, porque influye en el PIB"
+            },
+            {
+              "id": "o3",
+              "text": "Contabilidad nacional, por variación en la balanza comercial"
+            },
+            {
+              "id": "o4",
+              "text": "Microeconomía, por alterar la estructura de costos empresariales"
+            },
+            {
+              "id": "o5",
+              "text": "Fuera de la FPP, mostrando crecimiento económico"
+            },
+            {
+              "id": "o6",
+              "text": "En la FPP, representando pleno uso de recursos"
+            },
+            {
+              "id": "o7",
+              "text": "Sobre la Frontera de Posibilidades de Producción (FPP)"
+            },
+            {
+              "id": "o8",
+              "text": "Dentro de la FPP, reflejando ineficiencia productiva"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=22726&cmid=44297 \t6/11"
+            }
+          ],
+          "correctOptionId": "o8",
+          "explanation": ""
+        },
+        {
+          "id": "qu3_7",
+          "text": "Si el Banco Central decide aumentar las tasas de interés, el impacto esperado sobre la economía será:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Expansión del gasto público"
+            },
+            {
+              "id": "o2",
+              "text": "Reducción de la inflación y del crédito disponible"
+            },
+            {
+              "id": "o3",
+              "text": "Aumento del PIB y del desempleo"
+            },
+            {
+              "id": "o4",
+              "text": "Mayor consumo e inversión privada"
+            },
+            {
+              "id": "o5",
+              "text": "Disminución temporal de la demanda agregada"
+            },
+            {
+              "id": "o6",
+              "text": "Expansión inmediata del PIB"
+            },
+            {
+              "id": "o7",
+              "text": "Reducción de la inversión pública"
+            },
+            {
+              "id": "o8",
+              "text": "Incremento automático de los salarios"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=22726&cmid=44297 \t7/11"
+            }
+          ],
+          "correctOptionId": "o8",
+          "explanation": ""
+        },
+        {
+          "id": "qu3_8",
+          "text": "En el modelo de flujo circular, cuando las empresas aumentan la producción y contratan más trabajadores, el efecto más probable sobre los hogares será:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Incremento del ingreso disponible y mayor consumo"
+            },
+            {
+              "id": "o2",
+              "text": "Disminución de la demanda agregada"
+            },
+            {
+              "id": "o3",
+              "text": "Reducción de ingresos y aumento del desempleo"
+            },
+            {
+              "id": "o4",
+              "text": "Aumento del ahorro y reducción del gasto público"
+            },
+            {
+              "id": "o5",
+              "text": "Cómo afecta la producción, precios y empleo dentro de las firmas"
+            },
+            {
+              "id": "o6",
+              "text": "La distribución del ingreso a nivel macro"
+            },
+            {
+              "id": "o7",
+              "text": "La variación del tipo de cambio oficial"
+            },
+            {
+              "id": "o8",
+              "text": "El impacto sobre la balanza de pagos nacional"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=22726&cmid=44297 \t8/11"
+            }
+          ],
+          "correctOptionId": "o8",
+          "explanation": ""
+        },
+        {
+          "id": "qu3_9",
+          "text": "Si la inflación es alta y los salarios no aumentan, el poder adquisitivo de los hogares:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Aumenta, generando expansión económica"
+            },
+            {
+              "id": "o2",
+              "text": "Se mantiene estable, sin afectar la producción"
+            },
+            {
+              "id": "o3",
+              "text": "Disminuye, reduciendo la capacidad de consumo"
+            },
+            {
+              "id": "o4",
+              "text": "Mejora, porque hay más dinero circulando"
+            },
+            {
+              "id": "o5",
+              "text": "Destrucción de infraestructura productiva"
+            },
+            {
+              "id": "o6",
+              "text": "Mejora educativa generalizada"
+            },
+            {
+              "id": "o7",
+              "text": "Avance tecnológico"
+            },
+            {
+              "id": "o8",
+              "text": "Aumento de la productividad laboral"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=22726&cmid=44297 \t9/11"
+            }
+          ],
+          "correctOptionId": "o8",
+          "explanation": ""
+        },
+        {
+          "id": "qu3_10",
+          "text": "Si la tasa de desempleo baja y el PIB aumenta, se puede afirmar que:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "La economía experimenta crecimiento económico"
+            },
+            {
+              "id": "o2",
+              "text": "La inflación tiende a disminuir"
+            },
+            {
+              "id": "o3",
+              "text": "El flujo circular se encuentra desequilibrado"
+            },
+            {
+              "id": "o4",
+              "text": "La economía está en recesión"
+            },
+            {
+              "id": "o5",
+              "text": "El análisis microeconómico ignora la producción nacional"
+            },
+            {
+              "id": "o6",
+              "text": "Las políticas fiscales solo impactan a las empresas grandes"
+            },
+            {
+              "id": "o7",
+              "text": "Las decisiones individuales de consumo afectan las variables agregadas como PIB e inflación"
+            },
+            {
+              "id": "o8",
+              "text": "Los precios se fijan independientemente del mercado"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=22726&cmid=44297 \t10/11"
+            }
+          ],
+          "correctOptionId": "o8",
+          "explanation": ""
+        },
+        {
+          "id": "qu3_11",
+          "text": "Si una política monetaria expansiva aumenta la cantidad de dinero, el efecto inmediato es:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Caída del PIB real"
+            },
+            {
+              "id": "o2",
+              "text": "Reducción del consumo y aumento del ahorro"
+            },
+            {
+              "id": "o3",
+              "text": "Disminución de la inversión privada"
+            },
+            {
+              "id": "o4",
+              "text": "Mayor demanda agregada y posible inflación"
+            },
+            {
+              "id": "o5",
+              "text": "edu.ec/mod/quiz/review.php?attempt=22726&cmid=44297 \t11/11"
+            }
+          ],
+          "correctOptionId": "o4",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "title": "Cuestionario U2 T4_ Resolver el siguiente banco de preguntas_ Revisión del intento _ UCE",
+      "questions": [
+        {
+          "id": "qu4_1",
+          "text": "En economía, el costo de oportunidad se diferencia del costo contable porque:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Se aplica solo a decisiones de inversión."
+            },
+            {
+              "id": "o2",
+              "text": "Se calcula exclusivamente en empresas públicas."
+            },
+            {
+              "id": "o3",
+              "text": "Incluye solo gastos monetarios."
+            },
+            {
+              "id": "o4",
+              "text": "Considera también los beneficios de la opción no elegid"
+            },
+            {
+              "id": "o5",
+              "text": ""
+            },
+            {
+              "id": "o6",
+              "text": "4/5/26, 10:50 p.m. \tCuestionario U2 T4: Resolver el siguiente banco de preguntas: Revisión del intento | UCE https://uvirtual.uc"
+            },
+            {
+              "id": "o7",
+              "text": "edu.ec/mod/quiz/review.php?attempt=68442&cmid=44300 \t1/11"
+            }
+          ],
+          "correctOptionId": "o7",
+          "explanation": ""
+        },
+        {
+          "id": "qu4_2",
+          "text": "Un desplazamiento hacia adentro de la FPP puede deberse a:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Innovación tecnológic"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Incremento de la inversión extranjer"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Mayor capacitación laboral."
+            },
+            {
+              "id": "o6",
+              "text": "Desastres naturales o pérdida de recursos productivos."
+            },
+            {
+              "id": "o7",
+              "text": "El salario que recib"
+            },
+            {
+              "id": "o8",
+              "text": ""
+            },
+            {
+              "id": "o9",
+              "text": "El valor de la educación y oportunidades futuras que sacrific"
+            },
+            {
+              "id": "o10",
+              "text": ""
+            },
+            {
+              "id": "o11",
+              "text": "El tiempo libre que gan"
+            },
+            {
+              "id": "o12",
+              "text": ""
+            },
+            {
+              "id": "o13",
+              "text": "Los gastos que evita al no estudiar."
+            },
+            {
+              "id": "o14",
+              "text": "4/5/26, 10:50 p.m. \tCuestionario U2 T4: Resolver el siguiente banco de preguntas: Revisión del intento | UCE https://uvirtual.uc"
+            },
+            {
+              "id": "o15",
+              "text": "edu.ec/mod/quiz/review.php?attempt=68442&cmid=44300 \t2/11"
+            }
+          ],
+          "correctOptionId": "o15",
+          "explanation": ""
+        },
+        {
+          "id": "qu4_3",
+          "text": "En términos de eficiencia, el costo de oportunidad ayuda a:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Asignar los recursos donde generan mayor beneficio relativo."
+            },
+            {
+              "id": "o2",
+              "text": "Producir sin tener en cuenta los recursos escasos."
+            },
+            {
+              "id": "o3",
+              "text": "Evitar el uso de factores productivos costosos."
+            },
+            {
+              "id": "o4",
+              "text": "Aumentar la desigualdad económic"
+            },
+            {
+              "id": "o5",
+              "text": ""
+            },
+            {
+              "id": "o6",
+              "text": "La reducción de impuestos y subsidios."
+            },
+            {
+              "id": "o7",
+              "text": "La maximización del consumo a corto plazo."
+            },
+            {
+              "id": "o8",
+              "text": "La eliminación de todos los riesgos financieros."
+            },
+            {
+              "id": "o9",
+              "text": "La comparación entre beneficios futuros y sacrificios presentes."
+            },
+            {
+              "id": "o10",
+              "text": "edu.ec/mod/quiz/review.php?attempt=68442&cmid=44300 \t3/11"
+            }
+          ],
+          "correctOptionId": "o10",
+          "explanation": ""
+        },
+        {
+          "id": "qu4_4",
+          "text": "El costo de oportunidad puede expresarse gráficamente en la FPP como:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Un punto de equilibrio entre oferta y demand"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "El desplazamiento de la curva hacia adentro."
+            },
+            {
+              "id": "o4",
+              "text": "El movimiento a lo largo de la curva que implica renunciar a un bien para obtener otro."
+            },
+            {
+              "id": "o5",
+              "text": "La diferencia entre el punto eficiente y el punto ineficient"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "Las computadoras que deja de producir y vender."
+            },
+            {
+              "id": "o8",
+              "text": "El beneficio contable obtenido."
+            },
+            {
+              "id": "o9",
+              "text": "El dinero invertido en maquinari"
+            },
+            {
+              "id": "o10",
+              "text": ""
+            },
+            {
+              "id": "o11",
+              "text": "Los salarios pagados a los empleados."
+            },
+            {
+              "id": "o12",
+              "text": "edu.ec/mod/quiz/review.php?attempt=68442&cmid=44300 \t4/11"
+            }
+          ],
+          "correctOptionId": "o12",
+          "explanation": ""
+        },
+        {
+          "id": "qu4_5",
+          "text": "Cuando la FPP se desplaza hacia afuera, significa que:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Los recursos han disminuido."
+            },
+            {
+              "id": "o2",
+              "text": "La economía alcanzó su límite productivo."
+            },
+            {
+              "id": "o3",
+              "text": "Existe desempleo estructural."
+            },
+            {
+              "id": "o4",
+              "text": "Ha ocurrido un crecimiento económico o mejora tecnológic"
+            },
+            {
+              "id": "o5",
+              "text": ""
+            },
+            {
+              "id": "o6",
+              "text": "20. Comprender el costo de oportunidad permite:"
+            },
+            {
+              "id": "o7",
+              "text": "Ignorar los recursos escasos disponibles."
+            },
+            {
+              "id": "o8",
+              "text": "Tomar decisiones más informadas evaluando alternativas."
+            },
+            {
+              "id": "o9",
+              "text": "Sustituir los costos reales por estimaciones teóricas."
+            },
+            {
+              "id": "o10",
+              "text": "Evitar toda pérdida económic"
+            },
+            {
+              "id": "o11",
+              "text": ""
+            },
+            {
+              "id": "o12",
+              "text": "edu.ec/mod/quiz/review.php?attempt=68442&cmid=44300 \t5/11"
+            }
+          ],
+          "correctOptionId": "o12",
+          "explanation": ""
+        },
+        {
+          "id": "qu4_6",
+          "text": "En la FPP, un punto dentro de la curva indica:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Ineficiencia productiva y subutilización de recursos."
+            },
+            {
+              "id": "o2",
+              "text": "Crecimiento económico sostenido."
+            },
+            {
+              "id": "o3",
+              "text": "Escasez de capital humano."
+            },
+            {
+              "id": "o4",
+              "text": "Eficiencia máxima y pleno empleo."
+            },
+            {
+              "id": "o5",
+              "text": "Dentro de la FPP."
+            },
+            {
+              "id": "o6",
+              "text": "En la frontera de la FPP."
+            },
+            {
+              "id": "o7",
+              "text": "Fuera de la FPP."
+            },
+            {
+              "id": "o8",
+              "text": "En un punto ineficient"
+            },
+            {
+              "id": "o9",
+              "text": ""
+            },
+            {
+              "id": "o10",
+              "text": "edu.ec/mod/quiz/review.php?attempt=68442&cmid=44300 \t6/11"
+            }
+          ],
+          "correctOptionId": "o10",
+          "explanation": ""
+        },
+        {
+          "id": "qu4_7",
+          "text": "El costo de oportunidad se considera un principio económico fundamental porque:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Se basa en comparar gastos fijos y variables."
+            },
+            {
+              "id": "o2",
+              "text": "Determina únicamente los costos financieros de una inversión."
+            },
+            {
+              "id": "o3",
+              "text": "Evalúa el valor de la mejor alternativa sacrificada al elegir una opción."
+            },
+            {
+              "id": "o4",
+              "text": "Permite calcular los beneficios contables de una decisión."
+            },
+            {
+              "id": "o5",
+              "text": "La ganancia empresarial esperad"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "El valor de los activos del negocio."
+            },
+            {
+              "id": "o8",
+              "text": "Los intereses que habría ganado en el banco."
+            },
+            {
+              "id": "o9",
+              "text": "Los impuestos sobre la inversión."
+            },
+            {
+              "id": "o10",
+              "text": "edu.ec/mod/quiz/review.php?attempt=68442&cmid=44300 \t7/11"
+            }
+          ],
+          "correctOptionId": "o10",
+          "explanation": ""
+        },
+        {
+          "id": "qu4_8",
+          "text": "Si un gobierno decide invertir más en defensa que en educación, el costo de oportunidad es:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "La reducción del gasto público."
+            },
+            {
+              "id": "o2",
+              "text": "El ahorro presupuestario del sector salu"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "La pérdida potencial de beneficios sociales y educativos."
+            },
+            {
+              "id": "o5",
+              "text": "El aumento del empleo militar."
+            },
+            {
+              "id": "o6",
+              "text": "Aumenta debido a la especialización de los factores productivos."
+            },
+            {
+              "id": "o7",
+              "text": "Se mantiene constante al aumentar la producción."
+            },
+            {
+              "id": "o8",
+              "text": "Disminuye progresivamente al usar más recursos."
+            },
+            {
+              "id": "o9",
+              "text": "No guarda relación con la eficiencia productiv"
+            },
+            {
+              "id": "o10",
+              "text": ""
+            },
+            {
+              "id": "o11",
+              "text": "edu.ec/mod/quiz/review.php?attempt=68442&cmid=44300 \t8/11"
+            }
+          ],
+          "correctOptionId": "o11",
+          "explanation": ""
+        },
+        {
+          "id": "qu4_9",
+          "text": "En el contexto empresarial, el costo de oportunidad de usar un edificio propio en lugar de alquilarlo es:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Nulo, porque el edificio pertenece a la empres"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Igual al valor de mercado del edificio."
+            },
+            {
+              "id": "o4",
+              "text": "El ingreso que se deja de percibir por no alquilarlo."
+            },
+            {
+              "id": "o5",
+              "text": "El gasto por mantenimiento de la propieda"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "Solo aplica en el sector público."
+            },
+            {
+              "id": "o8",
+              "text": "Las elecciones pueden implicar pérdida de tiempo, esfuerzo o experiencias."
+            },
+            {
+              "id": "o9",
+              "text": "El dinero no influye en las decisiones racionales."
+            },
+            {
+              "id": "o10",
+              "text": "Las decisiones económicas carecen de consecuencias."
+            },
+            {
+              "id": "o11",
+              "text": "edu.ec/mod/quiz/review.php?attempt=68442&cmid=44300 \t9/11"
+            }
+          ],
+          "correctOptionId": "o11",
+          "explanation": ""
+        },
+        {
+          "id": "qu4_10",
+          "text": "Un error común al analizar decisiones económicas es:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Evaluar todos los costos posibles antes de decidir."
+            },
+            {
+              "id": "o2",
+              "text": "Considerar los costos implícitos junto con los explícitos."
+            },
+            {
+              "id": "o3",
+              "text": "Comparar beneficios marginales con costos marginales."
+            },
+            {
+              "id": "o4",
+              "text": "Ignorar el valor de las alternativas no elegidas."
+            },
+            {
+              "id": "o5",
+              "text": "Una política fiscal restrictiv"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "Un costo de oportunidad asociado a los beneficios de salud sacrificados."
+            },
+            {
+              "id": "o8",
+              "text": "Una decisión sin impacto económico."
+            },
+            {
+              "id": "o9",
+              "text": "Una ganancia en bienestar social."
+            },
+            {
+              "id": "o10",
+              "text": "edu.ec/mod/quiz/review.php?attempt=68442&cmid=44300 \t10/11"
+            }
+          ],
+          "correctOptionId": "o10",
+          "explanation": ""
+        },
+        {
+          "id": "qu4_11",
+          "text": "Si una economía produce más de un bien sin reducir otro, podemos afirmar que:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "No tiene limitaciones de recursos."
+            },
+            {
+              "id": "o2",
+              "text": "Está operando dentro de la FPP y es ineficient"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "Se encuentra en la frontera de la FPP."
+            },
+            {
+              "id": "o5",
+              "text": "Está utilizando recursos de forma ineficient"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "4/5/26, 10:50 p.m. \tCuestionario U2 T4: Resolver el siguiente banco de preguntas: Revisión del intento | UCE https://uvirtual.uc"
+            },
+            {
+              "id": "o8",
+              "text": "edu.ec/mod/quiz/review.php?attempt=68442&cmid=44300 \t11/11"
+            }
+          ],
+          "correctOptionId": "o8",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "title": "Cuestionario U3 T5",
+      "questions": [
+        {
+          "id": "qu5_1",
+          "text": "En un mercado competitivo, el precio de equilibrio se establece cuando:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "El Estado impone el precio máximo permitido."
+            },
+            {
+              "id": "o2",
+              "text": "La cantidad ofrecida iguala a la cantidad demandad"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "Los vendedores pueden fijar los precios librement"
+            },
+            {
+              "id": "o5",
+              "text": ""
+            },
+            {
+              "id": "o6",
+              "text": "Los costos de producción son mayores que la demand"
+            },
+            {
+              "id": "o7",
+              "text": ""
+            },
+            {
+              "id": "o8",
+              "text": "⌃ 4/5/26, 11:29 p.m. \tCuestionario U3 T5: Resolver el siguiente banco de preguntas: Revisión del intento | UCE https://uvirtual.uc"
+            },
+            {
+              "id": "o9",
+              "text": "edu.ec/mod/quiz/review.php?attempt=69549&cmid=44305 \t1/11"
+            }
+          ],
+          "correctOptionId": "o7",
+          "explanation": ""
+        },
+        {
+          "id": "qu5_2",
+          "text": "Si el precio de un bien aumenta y los consumidores deciden comprar menos unidades, estamos observando:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Un cambio en el nivel de rent"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Un desplazamiento de la curva de demand"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Un movimiento a lo largo de la curva de demand"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "Un cambio en los gustos del consumidor."
+            },
+            {
+              "id": "o8",
+              "text": "19. Cuando un cambio en las expectativas futuras lleva a los consumidores a comprar más ahora, se produce:"
+            },
+            {
+              "id": "o9",
+              "text": "Un cambio en el precio del equilibrio hacia abajo."
+            },
+            {
+              "id": "o10",
+              "text": "Un desplazamiento de la demanda hacia la derech"
+            },
+            {
+              "id": "o11",
+              "text": ""
+            },
+            {
+              "id": "o12",
+              "text": "Una contracción de la demand"
+            },
+            {
+              "id": "o13",
+              "text": ""
+            },
+            {
+              "id": "o14",
+              "text": "Un desplazamiento de la demanda hacia la izquierd"
+            },
+            {
+              "id": "o15",
+              "text": ""
+            },
+            {
+              "id": "o16",
+              "text": "⌃ 4/5/26, 11:29 p.m. \tCuestionario U3 T5: Resolver el siguiente banco de preguntas: Revisión del intento | UCE https://uvirtual.uc"
+            },
+            {
+              "id": "o17",
+              "text": "edu.ec/mod/quiz/review.php?attempt=69549&cmid=44305 \t2/11"
+            }
+          ],
+          "correctOptionId": "o15",
+          "explanation": ""
+        },
+        {
+          "id": "qu5_3",
+          "text": "Una empresa en competencia monopolística puede diferenciar su producto principalmente a través de:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Innovación, publicidad o marc"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Regulaciones estatales."
+            },
+            {
+              "id": "o4",
+              "text": "Control del precio de equilibrio."
+            },
+            {
+              "id": "o5",
+              "text": "Restricción de entrada al mercado."
+            },
+            {
+              "id": "o6",
+              "text": "7. Cuando un aumento del precio de un bien produce una reducción en la cantidad demandada de otro bien, estamos ante:"
+            },
+            {
+              "id": "o7",
+              "text": "Bienes independientes."
+            },
+            {
+              "id": "o8",
+              "text": "Bienes sustitutos."
+            },
+            {
+              "id": "o9",
+              "text": "Bienes complementarios."
+            },
+            {
+              "id": "o10",
+              "text": "Bienes de lujo."
+            },
+            {
+              "id": "o11",
+              "text": "edu.ec/mod/quiz/review.php?attempt=69549&cmid=44305 \t3/11"
+            }
+          ],
+          "correctOptionId": "o10",
+          "explanation": ""
+        },
+        {
+          "id": "qu5_4",
+          "text": "En una economía digital, si las plataformas reducen los precios de suscripciones y aumentan los usuarios, se demuestra:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "La ley de ofert"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "La ley de la demand"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "La ley de rendimientos decrecientes."
+            },
+            {
+              "id": "o6",
+              "text": "El principio de escasez."
+            },
+            {
+              "id": "o7",
+              "text": "15. La elasticidad precio de la demanda mide:"
+            },
+            {
+              "id": "o8",
+              "text": "El grado de respuesta de la cantidad demandada ante cambios en el precio."
+            },
+            {
+              "id": "o9",
+              "text": "El nivel de competencia entre productores."
+            },
+            {
+              "id": "o10",
+              "text": "La sensibilidad de la cantidad demandada ante cambios en la rent"
+            },
+            {
+              "id": "o11",
+              "text": ""
+            },
+            {
+              "id": "o12",
+              "text": "El efecto del costo de producción sobre el precio."
+            },
+            {
+              "id": "o13",
+              "text": "edu.ec/mod/quiz/review.php?attempt=69549&cmid=44305 \t4/11"
+            }
+          ],
+          "correctOptionId": "o12",
+          "explanation": ""
+        },
+        {
+          "id": "qu5_5",
+          "text": "En un mercado real, la competencia perfecta es difícil de lograr porque:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Los consumidores no actúan racionalment"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "El Estado impone precios fijos en todos los bienes."
+            },
+            {
+              "id": "o4",
+              "text": "Las empresas no buscan maximizar beneficios."
+            },
+            {
+              "id": "o5",
+              "text": "Siempre existen barreras de entrada y diferenciación de productos."
+            },
+            {
+              "id": "o6",
+              "text": "Un bien complementario."
+            },
+            {
+              "id": "o7",
+              "text": "Un bien inferior."
+            },
+            {
+              "id": "o8",
+              "text": "Un bien normal."
+            },
+            {
+              "id": "o9",
+              "text": "Un bien sustituto."
+            },
+            {
+              "id": "o10",
+              "text": "edu.ec/mod/quiz/review.php?attempt=69549&cmid=44305 \t5/11"
+            }
+          ],
+          "correctOptionId": "o9",
+          "explanation": ""
+        },
+        {
+          "id": "qu5_6",
+          "text": "Si el precio del café aumenta y la demanda de té también lo hace, podemos concluir que:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "El té y el café son bienes complementarios."
+            },
+            {
+              "id": "o2",
+              "text": "El té y el café son bienes sustitutos."
+            },
+            {
+              "id": "o3",
+              "text": "Ambos productos son bienes inferiores."
+            },
+            {
+              "id": "o4",
+              "text": "No existe relación económica entre ambos."
+            },
+            {
+              "id": "o5",
+              "text": "El primero se debe al precio y el segundo a otros determinantes de la demand"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "El primero implica un desplazamiento y el segundo un movimiento en la curv"
+            },
+            {
+              "id": "o8",
+              "text": ""
+            },
+            {
+              "id": "o9",
+              "text": "Ambos son causados exclusivamente por variaciones en el ingreso."
+            },
+            {
+              "id": "o10",
+              "text": "El primero depende de factores externos y el segundo del precio."
+            },
+            {
+              "id": "o11",
+              "text": "⌃ 4/5/26, 11:29 p.m. \tCuestionario U3 T5: Resolver el siguiente banco de preguntas: Revisión del intento | UCE https://uvirtual.uc"
+            },
+            {
+              "id": "o12",
+              "text": "edu.ec/mod/quiz/review.php?attempt=69549&cmid=44305 \t6/11"
+            }
+          ],
+          "correctOptionId": "o12",
+          "explanation": ""
+        },
+        {
+          "id": "qu5_7",
+          "text": "En un mercado de competencia perfecta, las empresas no pueden fijar libremente los precios porque:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Los consumidores tienen poca información."
+            },
+            {
+              "id": "o2",
+              "text": "Existen muchos oferentes y el precio se determina por el mercado."
+            },
+            {
+              "id": "o3",
+              "text": "El gobierno controla todos los precios."
+            },
+            {
+              "id": "o4",
+              "text": "Los costos de producción varían entre empresas."
+            },
+            {
+              "id": "o5",
+              "text": "Un desplazamiento hacia la izquierda de la ofert"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "Un desplazamiento de la curva de demanda hacia la derech"
+            },
+            {
+              "id": "o8",
+              "text": ""
+            },
+            {
+              "id": "o9",
+              "text": "Un movimiento a lo largo de la curva hacia abajo."
+            },
+            {
+              "id": "o10",
+              "text": "Una reducción de la demanda total."
+            },
+            {
+              "id": "o11",
+              "text": "⌃ 4/5/26, 11:29 p.m. \tCuestionario U3 T5: Resolver el siguiente banco de preguntas: Revisión del intento | UCE https://uvirtual.uc"
+            },
+            {
+              "id": "o12",
+              "text": "edu.ec/mod/quiz/review.php?attempt=69549&cmid=44305 \t7/11"
+            }
+          ],
+          "correctOptionId": "o10",
+          "explanation": ""
+        },
+        {
+          "id": "qu5_8",
+          "text": "En un mercado con pocos vendedores y muchos compradores, el tipo de competencia es:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Oligopólic"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Perfect"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Monopolístic"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "Mixt"
+            },
+            {
+              "id": "o8",
+              "text": ""
+            },
+            {
+              "id": "o9",
+              "text": "14. Si un aumento en el ingreso provoca una disminución en la demanda de arroz, entonces el arroz se considera:"
+            },
+            {
+              "id": "o10",
+              "text": "Un bien normal."
+            },
+            {
+              "id": "o11",
+              "text": "Un bien complementario."
+            },
+            {
+              "id": "o12",
+              "text": "Un bien inferior."
+            },
+            {
+              "id": "o13",
+              "text": "Un bien sustituto."
+            },
+            {
+              "id": "o14",
+              "text": "edu.ec/mod/quiz/review.php?attempt=69549&cmid=44305 \t8/11"
+            }
+          ],
+          "correctOptionId": "o13",
+          "explanation": ""
+        },
+        {
+          "id": "qu5_9",
+          "text": "Una empresa que posee el control total sobre la producción y el precio de un bien opera en un mercado:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Oligopólico."
+            },
+            {
+              "id": "o2",
+              "text": "De competencia perfect"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "Monopolístico."
+            },
+            {
+              "id": "o5",
+              "text": "Competencia monopolístic"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "Los consumidores compran más a precios altos."
+            },
+            {
+              "id": "o8",
+              "text": "Hay exceso de demanda y escasez del bien."
+            },
+            {
+              "id": "o9",
+              "text": "Se genera un exceso de oferta y los precios tienden a bajar."
+            },
+            {
+              "id": "o10",
+              "text": "El gobierno interviene para fijar nuevos precios."
+            },
+            {
+              "id": "o11",
+              "text": "edu.ec/mod/quiz/review.php?attempt=69549&cmid=44305 \t9/11"
+            }
+          ],
+          "correctOptionId": "o10",
+          "explanation": ""
+        },
+        {
+          "id": "qu5_10",
+          "text": "Si el gobierno establece un precio máximo por debajo del equilibrio, el resultado será:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Un equilibrio de mercado eficient"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Un aumento del ingreso de los productores."
+            },
+            {
+              "id": "o4",
+              "text": "Una escasez o desabastecimiento del bien."
+            },
+            {
+              "id": "o5",
+              "text": "Un exceso de ofert"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "Todos los factores se mantienen constantes excepto el precio."
+            },
+            {
+              "id": "o8",
+              "text": "Se modifica simultáneamente el precio y la rent"
+            },
+            {
+              "id": "o9",
+              "text": ""
+            },
+            {
+              "id": "o10",
+              "text": "La cantidad ofrecida varía con todos los factores."
+            },
+            {
+              "id": "o11",
+              "text": "El gobierno interviene en el mercado."
+            },
+            {
+              "id": "o12",
+              "text": "edu.ec/mod/quiz/review.php?attempt=69549&cmid=44305 \t10/11"
+            }
+          ],
+          "correctOptionId": "o11",
+          "explanation": ""
+        },
+        {
+          "id": "qu5_11",
+          "text": "Cuando una empresa lanza una nueva tecnología que reduce su precio y aumenta la demanda, se produce:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Un cambio en la cantidad demandad"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Un desplazamiento hacia la derecha de la demand"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Un punto de equilibrio ineficient"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "Un desplazamiento hacia la izquierda de la demand"
+            },
+            {
+              "id": "o8",
+              "text": ""
+            },
+            {
+              "id": "o9",
+              "text": "⌃ 4/5/26, 11:29 p.m. \tCuestionario U3 T5: Resolver el siguiente banco de preguntas: Revisión del intento | UCE https://uvirtual.uc"
+            },
+            {
+              "id": "o10",
+              "text": "edu.ec/mod/quiz/review.php?attempt=69549&cmid=44305 \t11/11"
+            }
+          ],
+          "correctOptionId": "o8",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "title": "Cuestionario U3 T7",
+      "questions": [
+        {
+          "id": "qu6_1",
+          "text": "Si la elasticidad precio de la demanda de un producto es -1, el ingreso total:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "No depende del precio."
+            },
+            {
+              "id": "o2",
+              "text": "Disminuye al subir el precio."
+            },
+            {
+              "id": "o3",
+              "text": "Permanece constante al variar el precio."
+            },
+            {
+              "id": "o4",
+              "text": "Aumenta al subir el precio."
+            },
+            {
+              "id": "o5",
+              "text": "edu.ec/mod/quiz/review.php?attempt=132661&cmid=44311 \t1/11"
+            }
+          ],
+          "correctOptionId": "o3",
+          "explanation": ""
+        },
+        {
+          "id": "qu6_2",
+          "text": "Si el precio de un bien aumenta y el ingreso total también lo hace, la demanda es:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Inelástic"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Elástic"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Perfectamente elástic"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "Unitariamente elástic"
+            },
+            {
+              "id": "o8",
+              "text": ""
+            },
+            {
+              "id": "o9",
+              "text": "11. Una empresa que enfrenta una demanda elástica y decide subir precios experimentará:"
+            },
+            {
+              "id": "o10",
+              "text": "Aumento en los ingresos totales."
+            },
+            {
+              "id": "o11",
+              "text": "Disminución en los ingresos totales."
+            },
+            {
+              "id": "o12",
+              "text": "Incremento en la cantidad demandad"
+            },
+            {
+              "id": "o13",
+              "text": ""
+            },
+            {
+              "id": "o14",
+              "text": "Mayor estabilidad del mercado."
+            },
+            {
+              "id": "o15",
+              "text": "edu.ec/mod/quiz/review.php?attempt=132661&cmid=44311 \t2/11"
+            }
+          ],
+          "correctOptionId": "o14",
+          "explanation": ""
+        },
+        {
+          "id": "qu6_3",
+          "text": "Si la elasticidad precio de la demanda de un producto es igual a -2, significa que:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "La demanda es inelástica y el precio no afecta el consumo."
+            },
+            {
+              "id": "o2",
+              "text": "La demanda es unitaria y el ingreso total permanece constant"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "La demanda es elástica y un aumento del precio reduce considerablemente la cantidad demandad"
+            },
+            {
+              "id": "o5",
+              "text": ""
+            },
+            {
+              "id": "o6",
+              "text": "No existe relación entre precio y cantidad demandad"
+            },
+            {
+              "id": "o7",
+              "text": ""
+            },
+            {
+              "id": "o8",
+              "text": "6. Si la elasticidad cruzada entre el café y el té es positiva, significa que:"
+            },
+            {
+              "id": "o9",
+              "text": "No tienen relación económic"
+            },
+            {
+              "id": "o10",
+              "text": ""
+            },
+            {
+              "id": "o11",
+              "text": "Ambos son bienes sustitutos."
+            },
+            {
+              "id": "o12",
+              "text": "Son bienes de primera necesida"
+            },
+            {
+              "id": "o13",
+              "text": ""
+            },
+            {
+              "id": "o14",
+              "text": "Ambos son bienes complementarios."
+            },
+            {
+              "id": "o15",
+              "text": "edu.ec/mod/quiz/review.php?attempt=132661&cmid=44311 \t3/11"
+            }
+          ],
+          "correctOptionId": "o14",
+          "explanation": ""
+        },
+        {
+          "id": "qu6_4",
+          "text": "Cuando el precio de un bien aumenta en un 10% y la cantidad demandada disminuye en un 5%, la demanda se considera:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Elástic"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Perfectamente elástic"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Inelástic"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "Unitariamente elástic"
+            },
+            {
+              "id": "o8",
+              "text": ""
+            },
+            {
+              "id": "o9",
+              "text": "10. Si la elasticidad ingreso de la demanda es negativa, el bien se clasifica como:"
+            },
+            {
+              "id": "o10",
+              "text": "Sustituto."
+            },
+            {
+              "id": "o11",
+              "text": "De lujo."
+            },
+            {
+              "id": "o12",
+              "text": "Normal."
+            },
+            {
+              "id": "o13",
+              "text": "Inferior."
+            },
+            {
+              "id": "o14",
+              "text": "edu.ec/mod/quiz/review.php?attempt=132661&cmid=44311 \t4/11"
+            }
+          ],
+          "correctOptionId": "o13",
+          "explanation": ""
+        },
+        {
+          "id": "qu6_5",
+          "text": "Una elasticidad ingreso positiva mayor que 1 indica que el bien es:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Inferior."
+            },
+            {
+              "id": "o2",
+              "text": "De lujo."
+            },
+            {
+              "id": "o3",
+              "text": "Normal necesario."
+            },
+            {
+              "id": "o4",
+              "text": "Complementario."
+            },
+            {
+              "id": "o5",
+              "text": "Mayor que en el largo plazo, por la rigidez de los factores productivos."
+            },
+            {
+              "id": "o6",
+              "text": "Constante en cualquier periodo."
+            },
+            {
+              "id": "o7",
+              "text": "Menor que en el largo plazo, por la poca capacidad de ajuste de la producción."
+            },
+            {
+              "id": "o8",
+              "text": "Negativa debido a los costos de oportunida"
+            },
+            {
+              "id": "o9",
+              "text": ""
+            },
+            {
+              "id": "o10",
+              "text": "edu.ec/mod/quiz/review.php?attempt=132661&cmid=44311 \t5/11"
+            }
+          ],
+          "correctOptionId": "o9",
+          "explanation": ""
+        },
+        {
+          "id": "qu6_6",
+          "text": "Si dos bienes presentan una elasticidad cruzada igual a cero, podemos afirmar que:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "No tienen relación entre sí."
+            },
+            {
+              "id": "o2",
+              "text": "Son sustitutos."
+            },
+            {
+              "id": "o3",
+              "text": "Son bienes inferiores."
+            },
+            {
+              "id": "o4",
+              "text": "Son complementarios."
+            },
+            {
+              "id": "o5",
+              "text": "La cantidad demandada no cambia ante variaciones en el precio."
+            },
+            {
+              "id": "o6",
+              "text": "El ingreso total se mantiene constant"
+            },
+            {
+              "id": "o7",
+              "text": ""
+            },
+            {
+              "id": "o8",
+              "text": "La demanda es perfectamente elástic"
+            },
+            {
+              "id": "o9",
+              "text": ""
+            },
+            {
+              "id": "o10",
+              "text": "Los consumidores son indiferentes al precio."
+            },
+            {
+              "id": "o11",
+              "text": "edu.ec/mod/quiz/review.php?attempt=132661&cmid=44311 \t6/11"
+            }
+          ],
+          "correctOptionId": "o10",
+          "explanation": ""
+        },
+        {
+          "id": "qu6_7",
+          "text": "Si una empresa desea aumentar sus ingresos en un bien elástico, debería:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Reducir el precio."
+            },
+            {
+              "id": "o2",
+              "text": "Mantener el precio constant"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "Eliminar el producto del mercado."
+            },
+            {
+              "id": "o5",
+              "text": "Incrementar el precio."
+            },
+            {
+              "id": "o6",
+              "text": "No hay relación entre oferta y precio."
+            },
+            {
+              "id": "o7",
+              "text": "Los costos de producción son fijos."
+            },
+            {
+              "id": "o8",
+              "text": "La oferta es elástica y responde fuertemente a los cambios de precio."
+            },
+            {
+              "id": "o9",
+              "text": "La oferta es inelástica y poco sensible al precio."
+            },
+            {
+              "id": "o10",
+              "text": "edu.ec/mod/quiz/review.php?attempt=132661&cmid=44311 \t7/11"
+            }
+          ],
+          "correctOptionId": "o9",
+          "explanation": ""
+        },
+        {
+          "id": "qu6_8",
+          "text": "En la práctica, los bienes de primera necesidad suelen tener una demanda:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Inelástic"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Elástic"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Perfectamente elástic"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "De elasticidad unitari"
+            },
+            {
+              "id": "o8",
+              "text": ""
+            },
+            {
+              "id": "o9",
+              "text": "17. Si el precio de la electricidad aumenta un 20% y la cantidad demandada apenas disminuye un 2%, la demanda se clasifica como:"
+            },
+            {
+              "id": "o10",
+              "text": "Inelástic"
+            },
+            {
+              "id": "o11",
+              "text": ""
+            },
+            {
+              "id": "o12",
+              "text": "De elasticidad unitari"
+            },
+            {
+              "id": "o13",
+              "text": ""
+            },
+            {
+              "id": "o14",
+              "text": "Perfectamente elástic"
+            },
+            {
+              "id": "o15",
+              "text": ""
+            },
+            {
+              "id": "o16",
+              "text": "Elástic"
+            },
+            {
+              "id": "o17",
+              "text": ""
+            },
+            {
+              "id": "o18",
+              "text": "⌃ 17/5/26, 7:47 p.m. \tCuestionario U3 T7: Resolver el siguiente banco de preguntas: Revisión del intento | UCE https://uvirtual.uc"
+            },
+            {
+              "id": "o19",
+              "text": "edu.ec/mod/quiz/review.php?attempt=132661&cmid=44311 \t8/11"
+            }
+          ],
+          "correctOptionId": "o17",
+          "explanation": ""
+        },
+        {
+          "id": "qu6_9",
+          "text": "En términos de política fiscal, aplicar un impuesto sobre un bien con demanda inelástica resulta:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Injusto, porque incentiva el consumo."
+            },
+            {
+              "id": "o2",
+              "text": "Eficiente, porque los consumidores absorben la mayor parte del impuesto."
+            },
+            {
+              "id": "o3",
+              "text": "Ineficaz, porque no altera el precio."
+            },
+            {
+              "id": "o4",
+              "text": "Ineficiente, ya que reduce los ingresos públicos."
+            },
+            {
+              "id": "o5",
+              "text": "Reducción de la competencia en el mercado."
+            },
+            {
+              "id": "o6",
+              "text": "Mayor capacidad de los productores para adaptarse al precio."
+            },
+            {
+              "id": "o7",
+              "text": "Mayor rigidez en la producción."
+            },
+            {
+              "id": "o8",
+              "text": "Escasez de recursos y menor flexibilida"
+            },
+            {
+              "id": "o9",
+              "text": ""
+            },
+            {
+              "id": "o10",
+              "text": "edu.ec/mod/quiz/review.php?attempt=132661&cmid=44311 \t9/11"
+            }
+          ],
+          "correctOptionId": "o9",
+          "explanation": ""
+        },
+        {
+          "id": "qu6_10",
+          "text": "Si una empresa productora de autos descubre una nueva tecnología que reduce sus costos, el efecto sobre la oferta será:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "La curva de oferta se desplazará hacia la derecha, aumentando la cantidad ofrecid"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Se mantendrá constant"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Habrá una reducción en el precio de equilibrio sin cambio en la cantida"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "La curva de oferta se desplazará hacia la izquierd"
+            },
+            {
+              "id": "o8",
+              "text": ""
+            },
+            {
+              "id": "o9",
+              "text": "7. Si la elasticidad cruzada entre gasolina y autos eléctricos es negativa, implica que:"
+            },
+            {
+              "id": "o10",
+              "text": "La demanda es perfectamente inelástic"
+            },
+            {
+              "id": "o11",
+              "text": ""
+            },
+            {
+              "id": "o12",
+              "text": "No tienen relación entre sí."
+            },
+            {
+              "id": "o13",
+              "text": "Son bienes complementarios."
+            },
+            {
+              "id": "o14",
+              "text": "Son bienes sustitutos."
+            },
+            {
+              "id": "o15",
+              "text": "edu.ec/mod/quiz/review.php?attempt=132661&cmid=44311 \t10/11"
+            }
+          ],
+          "correctOptionId": "o14",
+          "explanation": ""
+        },
+        {
+          "id": "qu6_11",
+          "text": "Cuando el precio de un bien baja y el ingreso total disminuye, la demanda es:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Inelástic"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Elástic"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Perfectamente elástic"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "Unitariamente elástic"
+            },
+            {
+              "id": "o8",
+              "text": ""
+            },
+            {
+              "id": "o9",
+              "text": "⌃ 17/5/26, 7:47 p.m. \tCuestionario U3 T7: Resolver el siguiente banco de preguntas: Revisión del intento | UCE https://uvirtual.uc"
+            },
+            {
+              "id": "o10",
+              "text": "edu.ec/mod/quiz/review.php?attempt=132661&cmid=44311 \t11/11"
+            }
+          ],
+          "correctOptionId": "o8",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "u7",
+      "title": "Cuestionario U3 T8",
+      "questions": [
+        {
+          "id": "qu7_1",
+          "text": "En el corto plazo, la elasticidad de la oferta suele ser:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Menor que en el largo plazo."
+            },
+            {
+              "id": "o2",
+              "text": "Mayor que en el largo plazo."
+            },
+            {
+              "id": "o3",
+              "text": "Nul"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Igual en ambos periodos."
+            },
+            {
+              "id": "o6",
+              "text": "edu.ec/mod/quiz/review.php?attempt=207587&cmid=44314 \t1/11"
+            }
+          ],
+          "correctOptionId": "o6",
+          "explanation": ""
+        },
+        {
+          "id": "qu7_2",
+          "text": "Si los precios de los insumos suben de forma repentina, los productores a corto plazo:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Mantienen la misma cantidad ofrecid"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Aumentan la elasticidad de la ofert"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Pueden aumentar fácilmente su ofert"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "Reducen su oferta al no poder ajustar los costos."
+            },
+            {
+              "id": "o8",
+              "text": "Perfectamente inelástic"
+            },
+            {
+              "id": "o9",
+              "text": ""
+            },
+            {
+              "id": "o10",
+              "text": "Negativamente elástic"
+            },
+            {
+              "id": "o11",
+              "text": ""
+            },
+            {
+              "id": "o12",
+              "text": "Más elástic"
+            },
+            {
+              "id": "o13",
+              "text": ""
+            },
+            {
+              "id": "o14",
+              "text": "Menos elástic"
+            },
+            {
+              "id": "o15",
+              "text": ""
+            },
+            {
+              "id": "o16",
+              "text": "30/5/26, 7:28 p.m. \tCuestionario U3 T8: Resolver el siguiente banco de preguntas: Revisión del intento | UCE https://uvirtual.uc"
+            },
+            {
+              "id": "o17",
+              "text": "edu.ec/mod/quiz/review.php?attempt=207587&cmid=44314 \t2/11"
+            }
+          ],
+          "correctOptionId": "o17",
+          "explanation": ""
+        },
+        {
+          "id": "qu7_3",
+          "text": "Si la elasticidad precio de la oferta es menor que 1, podemos concluir que:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "La oferta es inelástic"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "La oferta es perfectamente elástic"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "La oferta es elástic"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "La oferta es unitari"
+            },
+            {
+              "id": "o8",
+              "text": ""
+            },
+            {
+              "id": "o9",
+              "text": "5. Si el precio del trigo aumenta un 10% y la cantidad ofrecida aumenta un 20%, la elasticidad de la oferta es:"
+            },
+            {
+              "id": "o10",
+              "text": "2 (elástica)"
+            },
+            {
+              "id": "o11",
+              "text": "0.2 (muy inelástica)"
+            },
+            {
+              "id": "o12",
+              "text": "1 (unitaria)"
+            },
+            {
+              "id": "o13",
+              "text": "0.5 (inelástica)"
+            },
+            {
+              "id": "o14",
+              "text": "edu.ec/mod/quiz/review.php?attempt=207587&cmid=44314 \t3/11"
+            }
+          ],
+          "correctOptionId": "o14",
+          "explanation": ""
+        },
+        {
+          "id": "qu7_4",
+          "text": "Si un bien tiene una oferta muy elástica, un pequeño aumento del precio:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Generará una gran respuesta en la cantidad ofrecid"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "No modificará la cantidad ofrecid"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Provocará un exceso de demand"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "Reducirá el número de productores."
+            },
+            {
+              "id": "o8",
+              "text": "20. En el mercado del petróleo, una interrupción en el suministro mundial genera:"
+            },
+            {
+              "id": "o9",
+              "text": "Un desplazamiento hacia la derecha y caída de precios."
+            },
+            {
+              "id": "o10",
+              "text": "Un desplazamiento de la curva de oferta hacia la izquierda y aumento de precios."
+            },
+            {
+              "id": "o11",
+              "text": "Un aumento en la elasticidad del producto."
+            },
+            {
+              "id": "o12",
+              "text": "Un movimiento a lo largo de la curva de ofert"
+            },
+            {
+              "id": "o13",
+              "text": ""
+            },
+            {
+              "id": "o14",
+              "text": "edu.ec/mod/quiz/review.php?attempt=207587&cmid=44314 \t4/11"
+            }
+          ],
+          "correctOptionId": "o14",
+          "explanation": ""
+        },
+        {
+          "id": "qu7_5",
+          "text": "Si el precio del petróleo baja y los productores reducen rápidamente la producción, se puede afirmar que:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "La oferta es elástic"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "La oferta no responde al precio."
+            },
+            {
+              "id": "o4",
+              "text": "La oferta es inelástic"
+            },
+            {
+              "id": "o5",
+              "text": ""
+            },
+            {
+              "id": "o6",
+              "text": "La oferta es perfectamente inelástic"
+            },
+            {
+              "id": "o7",
+              "text": ""
+            },
+            {
+              "id": "o8",
+              "text": "1. Si la elasticidad precio de la oferta es mayor que 1, significa que:"
+            },
+            {
+              "id": "o9",
+              "text": "La oferta es inelástica y la cantidad ofrecida varía menos que el precio."
+            },
+            {
+              "id": "o10",
+              "text": "Los productores no responden ante cambios de precios."
+            },
+            {
+              "id": "o11",
+              "text": "No existe relación entre precio y cantidad ofrecid"
+            },
+            {
+              "id": "o12",
+              "text": ""
+            },
+            {
+              "id": "o13",
+              "text": "La oferta es elástica y la cantidad ofrecida varía más que el precio."
+            },
+            {
+              "id": "o14",
+              "text": "edu.ec/mod/quiz/review.php?attempt=207587&cmid=44314 \t5/11"
+            }
+          ],
+          "correctOptionId": "o14",
+          "explanation": ""
+        },
+        {
+          "id": "qu7_6",
+          "text": "Si un agricultor no puede aumentar su cosecha inmediatamente ante un alza de precios, su oferta se considera:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Elástica en el corto plazo."
+            },
+            {
+              "id": "o2",
+              "text": "Perfectamente elástic"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "De elasticidad unitari"
+            },
+            {
+              "id": "o5",
+              "text": ""
+            },
+            {
+              "id": "o6",
+              "text": "Inelástica en el corto plazo."
+            },
+            {
+              "id": "o7",
+              "text": "Los productores pueden aumentar la producción sin costo adicional."
+            },
+            {
+              "id": "o8",
+              "text": "La cantidad ofrecida aumenta proporcionalmente al precio."
+            },
+            {
+              "id": "o9",
+              "text": "Existe exceso de oferta en el mercado."
+            },
+            {
+              "id": "o10",
+              "text": "La cantidad ofrecida no cambia aunque el precio varí"
+            },
+            {
+              "id": "o11",
+              "text": ""
+            },
+            {
+              "id": "o12",
+              "text": "30/5/26, 7:28 p.m. \tCuestionario U3 T8: Resolver el siguiente banco de preguntas: Revisión del intento | UCE https://uvirtual.uc"
+            },
+            {
+              "id": "o13",
+              "text": "edu.ec/mod/quiz/review.php?attempt=207587&cmid=44314 \t6/11"
+            }
+          ],
+          "correctOptionId": "o13",
+          "explanation": ""
+        },
+        {
+          "id": "qu7_7",
+          "text": "En una economía con fuerte regulación estatal sobre precios, la oferta tiende a:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Ser más inelástica, por las restricciones de producción."
+            },
+            {
+              "id": "o2",
+              "text": "Ser perfectamente elástic"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "Aumentar indefinidament"
+            },
+            {
+              "id": "o5",
+              "text": ""
+            },
+            {
+              "id": "o6",
+              "text": "Ser más elástica, porque los productores reaccionan al mercado."
+            },
+            {
+              "id": "o7",
+              "text": "Permanece constante, sin importar la innovación."
+            },
+            {
+              "id": "o8",
+              "text": "Disminuye, porque la producción se vuelve más costos"
+            },
+            {
+              "id": "o9",
+              "text": ""
+            },
+            {
+              "id": "o10",
+              "text": "Se vuelve perfectamente inelástic"
+            },
+            {
+              "id": "o11",
+              "text": ""
+            },
+            {
+              "id": "o12",
+              "text": "Aumenta, porque los productores pueden responder más rápido."
+            },
+            {
+              "id": "o13",
+              "text": "edu.ec/mod/quiz/review.php?attempt=207587&cmid=44314 \t7/11"
+            }
+          ],
+          "correctOptionId": "o13",
+          "explanation": ""
+        },
+        {
+          "id": "qu7_8",
+          "text": "Si la elasticidad precio de la oferta es igual a 1, significa que:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "La oferta es totalmente rígid"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "La cantidad ofrecida no cambia ante los precios."
+            },
+            {
+              "id": "o4",
+              "text": "La cantidad ofrecida varía en la misma proporción que el precio."
+            },
+            {
+              "id": "o5",
+              "text": "La producción no depende del mercado."
+            },
+            {
+              "id": "o6",
+              "text": "Negativa, por la dependencia laboral."
+            },
+            {
+              "id": "o7",
+              "text": "Alta, porque puede producirse fácilment"
+            },
+            {
+              "id": "o8",
+              "text": ""
+            },
+            {
+              "id": "o9",
+              "text": "Infinita, porque depende solo del precio."
+            },
+            {
+              "id": "o10",
+              "text": "Baja, debido a la dificultad de aumentar la producción."
+            },
+            {
+              "id": "o11",
+              "text": "edu.ec/mod/quiz/review.php?attempt=207587&cmid=44314 \t8/11"
+            }
+          ],
+          "correctOptionId": "o11",
+          "explanation": ""
+        },
+        {
+          "id": "qu7_9",
+          "text": "Si un productor espera un aumento futuro de precios, en el corto plazo probablemente:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Aumente los salarios de sus trabajadores."
+            },
+            {
+              "id": "o2",
+              "text": "Aumente la oferta actual."
+            },
+            {
+              "id": "o3",
+              "text": "Mantenga la oferta constant"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Reduzca la oferta actual para vender después."
+            },
+            {
+              "id": "o6",
+              "text": "Aumenta, porque puede ajustar la cantidad ofrecida ante cambios de precios."
+            },
+            {
+              "id": "o7",
+              "text": "Se vuelve perfectamente inelástic"
+            },
+            {
+              "id": "o8",
+              "text": ""
+            },
+            {
+              "id": "o9",
+              "text": "Permanece constant"
+            },
+            {
+              "id": "o10",
+              "text": ""
+            },
+            {
+              "id": "o11",
+              "text": "Disminuye, ya que depende de la demand"
+            },
+            {
+              "id": "o12",
+              "text": ""
+            },
+            {
+              "id": "o13",
+              "text": "edu.ec/mod/quiz/review.php?attempt=207587&cmid=44314 \t9/11"
+            }
+          ],
+          "correctOptionId": "o13",
+          "explanation": ""
+        },
+        {
+          "id": "qu7_10",
+          "text": "Si una empresa requiere un año para aumentar su producción ante un alza de precios, su oferta será:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Más elástica en el largo plazo."
+            },
+            {
+              "id": "o2",
+              "text": "Más elástica en el corto plazo."
+            },
+            {
+              "id": "o3",
+              "text": "Perfectamente inelástic"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Igualmente elástica en ambos plazos."
+            },
+            {
+              "id": "o6",
+              "text": "Movimiento sobre la curva de ofert"
+            },
+            {
+              "id": "o7",
+              "text": ""
+            },
+            {
+              "id": "o8",
+              "text": "Desplazamiento hacia la izquierda de la ofert"
+            },
+            {
+              "id": "o9",
+              "text": ""
+            },
+            {
+              "id": "o10",
+              "text": "Disminución del precio de equilibrio."
+            },
+            {
+              "id": "o11",
+              "text": "Desplazamiento hacia la derecha de la ofert"
+            },
+            {
+              "id": "o12",
+              "text": ""
+            },
+            {
+              "id": "o13",
+              "text": "30/5/26, 7:28 p.m. \tCuestionario U3 T8: Resolver el siguiente banco de preguntas: Revisión del intento | UCE https://uvirtual.uc"
+            },
+            {
+              "id": "o14",
+              "text": "edu.ec/mod/quiz/review.php?attempt=207587&cmid=44314 \t10/11"
+            }
+          ],
+          "correctOptionId": "o14",
+          "explanation": ""
+        },
+        {
+          "id": "qu7_11",
+          "text": "Si los costos de producción aumentan considerablemente, el efecto más probable es:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Movimiento a lo largo de la curva de ofert"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Desplazamiento hacia la derecha de la curv"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Desplazamiento de la curva de oferta hacia la izquierd"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "Estabilidad en la cantidad ofrecid"
+            },
+            {
+              "id": "o8",
+              "text": ""
+            },
+            {
+              "id": "o9",
+              "text": "30/5/26, 7:28 p.m. \tCuestionario U3 T8: Resolver el siguiente banco de preguntas: Revisión del intento | UCE https://uvirtual.uc"
+            },
+            {
+              "id": "o10",
+              "text": "edu.ec/mod/quiz/review.php?attempt=207587&cmid=44314 \t11/11"
+            }
+          ],
+          "correctOptionId": "o10",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "u8",
+      "title": "Prueba sumativa parcial_ Revisión del intento _ UCE",
+      "questions": [
+        {
+          "id": "qu8_1",
+          "text": "Se puntúa 1,00 sobre 1,00 5. Una empresa internacional de comercio electrónico incrementa en un 8% el precio de su servicio Premium debido a un impuesto digital. Más del 40% de sus clientes cancela la suscripción y migra a plataformas competidoras. ¿Qué conclusión económica es la más adecuada?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "El incremento del precio aumentó el bienestar del consumidor."
+            },
+            {
+              "id": "o2",
+              "text": "El servicio posee una demanda altamente elástic"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "El impuesto fue absorbido completamente por la empres"
+            },
+            {
+              "id": "o5",
+              "text": ""
+            },
+            {
+              "id": "o6",
+              "text": "La demanda es perfectamente inelástic"
+            },
+            {
+              "id": "o7",
+              "text": ""
+            },
+            {
+              "id": "o8",
+              "text": " ⌃"
+            }
+          ],
+          "correctOptionId": "o7",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_2",
+          "text": "Se puntúa 1,00 sobre 1,00 26. Una empresa ecuatoriana desarrolla software ERP para pequeñas empresas. El incremento de aranceles sobre equipos informáticos provoca que muchos de sus clientes posterguen la modernización tecnológica debido al aumento de la inversión requerid",
+          "options": [
+            {
+              "id": "o1",
+              "text": "¿Cuál es el efecto económico indirecto más relevante?"
+            },
+            {
+              "id": "o2",
+              "text": "Disminución de la demanda derivada de servicios tecnológicos debido al incremento en el costo de los bienes complementarios."
+            },
+            {
+              "id": "o3",
+              "text": "Incremento inmediato del consumo tecnológico."
+            },
+            {
+              "id": "o4",
+              "text": "Eliminación del costo de oportunida"
+            },
+            {
+              "id": "o5",
+              "text": ""
+            },
+            {
+              "id": "o6",
+              "text": "Reducción permanente de la inflación."
+            }
+          ],
+          "correctOptionId": "o5",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_3",
+          "text": "Se puntúa 1,00 sobre 1,00 3. Una startup ecuatoriana desarrolla aplicaciones móviles para empresas. El Gobierno decide reducir los impuestos sobre equipos informáticos importados utilizados para desarrollo de softwar",
+          "options": [
+            {
+              "id": "o1",
+              "text": "La empresa invierte inmediatamente en nuevos servidores, aumentando su productividad y reduciendo sus costos de producción. ¿Cuál principio económico explica mejor esta decisión?"
+            },
+            {
+              "id": "o2",
+              "text": "El mercado pierde eficiencia porque aumenta la inversión."
+            },
+            {
+              "id": "o3",
+              "text": "La reducción de impuestos disminuye automáticamente la demanda del servicio."
+            },
+            {
+              "id": "o4",
+              "text": "La elasticidad de la demanda desaparece cuando existen incentivos tributarios."
+            },
+            {
+              "id": "o5",
+              "text": "La disminución de impuestos puede desplazar la oferta hacia la derecha al reducir costos de producción."
+            }
+          ],
+          "correctOptionId": "o5",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_4",
+          "text": "Se puntúa 1,00 sobre 1,00 24. Una startup de desarrollo de software utiliza servicios de nube internacional para almacenar millones de registros financieros. Como resultado de nuevas restricciones comerciales, el proveedor incrementa sus tarifas debido al aumento del costo de infraestructur",
+          "options": [
+            {
+              "id": "o1",
+              "text": "¿Cuál será el impacto más probable sobre el mercado?"
+            },
+            {
+              "id": "o2",
+              "text": "Incremento automático del bienestar del consumidor."
+            },
+            {
+              "id": "o3",
+              "text": "Eliminación de la competencia internacional."
+            },
+            {
+              "id": "o4",
+              "text": "Disminución de la oferta de servicios tecnológicos por incremento de costos."
+            },
+            {
+              "id": "o5",
+              "text": "Reducción permanente de la demanda de soluciones digitales."
+            }
+          ],
+          "correctOptionId": "o4",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_5",
+          "text": "Se puntúa 1,00 sobre 1,00 7. Una empresa de servicios de ciberseguridad vende soluciones avanzadas para bancos. Después de un impuesto sobre servicios digitales, el precio aumenta ligeramente, pero las instituciones financieras mantienen prácticamente el mismo volumen de contratación debido a la criticidad del servicio. ¿Cuál es la mejor explicación?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Los bancos actúan fuera de las leyes del mercado."
+            },
+            {
+              "id": "o2",
+              "text": "La demanda es relativamente inelástic"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "Existe una sobreoferta de servicios."
+            },
+            {
+              "id": "o5",
+              "text": "La demanda es perfectamente elástic"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "⌃"
+            }
+          ],
+          "correctOptionId": "o6",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_6",
+          "text": "Se puntúa 1,00 sobre 1,00 29. Durante una guerra comercial entre grandes economías, varias empresas tecnológicas trasladan sus inversiones hacia América Latina para reducir riesgos políticos y logísticos. Ecuador recibe nuevos proyectos relacionados con centros de datos e infraestructura digital. ¿Cuál sería una consecuencia económica positiva para el país receptor?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Disminución permanente del crecimiento económico."
+            },
+            {
+              "id": "o2",
+              "text": "Reducción automática del comercio internacional."
+            },
+            {
+              "id": "o3",
+              "text": "Eliminación de la competencia empresarial."
+            },
+            {
+              "id": "o4",
+              "text": "Incremento potencial de inversión extranjera, empleo especializado y transferencia tecnológic"
+            },
+            {
+              "id": "o5",
+              "text": ""
+            },
+            {
+              "id": "o6",
+              "text": "⌃"
+            }
+          ],
+          "correctOptionId": "o5",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_7",
+          "text": "Se puntúa 1,00 sobre 1,00 9. Una empresa desarrolla soluciones basadas en Big Data para gobiernos locales. El Estado estudia aplicar impuestos únicamente a plataformas digitales extranjeras con el objetivo de fortalecer la industria nacional. ¿Cuál sería uno de los efectos económicos esperados?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Desaparición de la elasticidad de la demand"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Incremento de la competitividad relativa de empresas nacionales."
+            },
+            {
+              "id": "o4",
+              "text": "Reducción automática del gasto público."
+            },
+            {
+              "id": "o5",
+              "text": "Eliminación total de la competencia internacional."
+            }
           ],
           "correctOptionId": "o2",
-          "explanation": "Son bienes complementarios porque se consumen en conjunto. Cuando el gobierno reduce el costo de uso de uno (haciendo las estaciones gratuitas), aumenta la demanda del otro (vehículos eléctricos)."
+          "explanation": ""
+        },
+        {
+          "id": "qu8_8",
+          "text": "Se puntúa 1,00 sobre 1,00 13. Un gobierno propone aplicar un impuesto especial a los centros de datos con altos niveles de consumo energético para incentivar inversiones en tecnologías más eficientes. Los recursos recaudados serán destinados a proyectos de energías renovables. ¿Cuál es el principal fundamento económico de esta política?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Internalizar el costo social generado por la actividad mediante un impuesto pigouviano."
+            },
+            {
+              "id": "o2",
+              "text": "Reducir la competencia entre empresas tecnológicas."
+            },
+            {
+              "id": "o3",
+              "text": "Eliminar completamente el consumo de energía eléctric"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Incrementar la demanda agregada del sector tecnológico."
+            }
+          ],
+          "correctOptionId": "o4",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_9",
+          "text": "Se puntúa 1,00 sobre 1,00 38. Una plataforma de computación en la nube incrementa sus precios debido al aumento de aranceles sobre equipos tecnológicos importados. Como consecuencia, miles de pequeñas empresas migran hacia soluciones alternativas desarrolladas localmente, mientras que las grandes corporaciones mantienen sus contratos internacionales. ¿Qué concepto económico explica mejor este comportamiento?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Los aranceles afectan únicamente a los productores."
+            },
+            {
+              "id": "o2",
+              "text": "Todos los consumidores reaccionan de manera idéntica frente a un cambio de precios."
+            },
+            {
+              "id": "o3",
+              "text": "La oferta determina completamente las decisiones de los consumidores."
+            },
+            {
+              "id": "o4",
+              "text": "La elasticidad-precio de la demanda varía entre distintos segmentos de consumidores."
+            }
+          ],
+          "correctOptionId": "o4",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_10",
+          "text": "Se puntúa 1,00 sobre 1,00 16. Una empresa de software decide ofrecer gratuitamente una plataforma para capacitar estudiantes universitarios en programación. Como resultado, otras empresas tecnológicas encuentran profesionales mejor preparados sin haber financiado el program",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Desde la perspectiva económica, ¿qué ocurre?"
+            },
+            {
+              "id": "o2",
+              "text": "Se presenta una externalidad negativa de consumo."
+            },
+            {
+              "id": "o3",
+              "text": "Existe una pérdida de eficiencia causada por exceso de producción."
+            },
+            {
+              "id": "o4",
+              "text": "Se elimina completamente la competencia laboral."
+            },
+            {
+              "id": "o5",
+              "text": "Se genera una externalidad positiva que provoca una subinversión privada respecto al nivel socialmente óptimo."
+            }
+          ],
+          "correctOptionId": "o5",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_11",
+          "text": "Se puntúa 1,00 sobre 1,00 32. Una empresa latinoamericana de ciberseguridad depende de microprocesadores importados para desarrollar dispositivos de protección de infraestructuras críticas. Como consecuencia de restricciones comerciales entre Estados Unidos y China, el costo de estos componentes aumenta un 40 %. La empresa analiza trasladar parte de su producción hacia un país con acuerdos comerciales preferenciales. ¿Cuál es el principal fundamento económico de esta decisión?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Reducir el costo económico total mediante una mejor localización dentro de las cadenas globales de suministro."
+            },
+            {
+              "id": "o2",
+              "text": "Eliminar completamente la competencia internacional."
+            },
+            {
+              "id": "o3",
+              "text": "Sustituir el comercio internacional por producción exclusivamente nacional."
+            },
+            {
+              "id": "o4",
+              "text": "Incrementar el precio final para todos los consumidores."
+            }
+          ],
+          "correctOptionId": "o1",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_12",
+          "text": "Se puntúa 1,00 sobre 1,00 39. Un gobierno latinoamericano desea fortalecer el ecosistema nacional de innovación digital. Para ello analiza tres políticas: aumentar aranceles tecnológicos, subsidiar investigación en inteligencia artificial y mejorar la infraestructura digital del país. ¿Cuál combinación generaría mayores beneficios sociales en el largo plazo?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Priorizar subsidios a innovación e inversión en infraestructura digital para corregir fallas de mercado y aumentar la productivida"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Eliminar completamente la inversión públic"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "Reducir el acceso a tecnologías internacionales."
+            },
+            {
+              "id": "o6",
+              "text": "Incrementar únicamente los aranceles sobre productos importados."
+            },
+            {
+              "id": "o7",
+              "text": "⌃"
+            }
+          ],
+          "correctOptionId": "o4",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_13",
+          "text": "Se puntúa 1,00 sobre 1,00 33. Una plataforma digital de comercio electrónico utiliza algoritmos de inteligencia artificial para recomendar productos. El sistema mejora significativamente la eficiencia del mercado, pero recopila información personal de millones de usuarios sin transparentar el tratamiento de los datos. Como consecuencia, aumentan los riesgos de privacidad para toda la socieda",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Desde el punto de vista económico, ¿qué combinación de fallas de mercado se presenta?"
+            },
+            {
+              "id": "o2",
+              "text": "Externalidad positiva exclusivament"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "Bien público puro."
+            },
+            {
+              "id": "o5",
+              "text": "Competencia perfect"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "Externalidad negativa asociada al uso de datos personales e información asimétric"
+            },
+            {
+              "id": "o8",
+              "text": ""
+            },
+            {
+              "id": "o9",
+              "text": "⌃"
+            }
+          ],
+          "correctOptionId": "o8",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_14",
+          "text": "Se puntúa 1,00 sobre 1,00 21. Una empresa ecuatoriana desarrolla soluciones de inteligencia artificial utilizando procesadores especializados importados desde Taiwán. Como consecuencia de una guerra comercial entre dos potencias económicas, los aranceles sobre los componentes electrónicos aumentan un 25 %, incrementando significativamente los costos de producción. La empresa debe decidir entre absorber el costo, aumentar el precio del software o buscar nuevos proveedores. Desde el punto de vista económico, ¿cuál es el principal efecto esperado de los nuevos aranceles?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Generan una pérdida de eficiencia porque elevan los costos de producción y reducen el intercambio comercial."
+            },
+            {
+              "id": "o2",
+              "text": "Incrementan la eficiencia del mercado al reducir la competencia internacional."
+            },
+            {
+              "id": "o3",
+              "text": "Eliminan completamente la dependencia tecnológica del mercado internacional."
+            },
+            {
+              "id": "o4",
+              "text": "Disminuyen automáticamente la inflación del sector tecnológico."
+            }
+          ],
+          "correctOptionId": "o1",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_15",
+          "text": "Se puntúa 1,00 sobre 1,00 20. Una empresa ecuatoriana desarrolla una plataforma nacional de inteligencia artificial para el sector salu",
+          "options": [
+            {
+              "id": "o1",
+              "text": "El proyecto genera mejoras en hospitales públicos, universidades y centros de investigación, beneficiando incluso a organizaciones que nunca adquirieron el sistema directament"
+            },
+            {
+              "id": "o2",
+              "text": "Si el Estado busca maximizar el bienestar social, ¿qué política sería la más adecuada?"
+            },
+            {
+              "id": "o3",
+              "text": "Limitar el acceso únicamente a instituciones privadas."
+            },
+            {
+              "id": "o4",
+              "text": "Regular el precio máximo del software para disminuir la innovación."
+            },
+            {
+              "id": "o5",
+              "text": "Otorgar incentivos económicos que permitan ampliar la producción hasta aproximarse al nivel socialmente eficient"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "Establecer un impuesto para reducir la producción tecnológic"
+            },
+            {
+              "id": "o8",
+              "text": ""
+            },
+            {
+              "id": "o9",
+              "text": "⌃"
+            }
+          ],
+          "correctOptionId": "o8",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_16",
+          "text": "Se puntúa 0,00 sobre 1,00 10. Una consultora tecnológica compara dos escenarios: en el primero se grava con impuestos un software de entretenimiento; en el segundo se grava un software utilizado para el control de operaciones críticas en hospitales. Desde la teoría económica, ¿en cuál escenario la incidencia tributaria recaería más fácilmente sobre los consumidores?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "En el software de entretenimiento, porque existen muchos sustitutos."
+            },
+            {
+              "id": "o2",
+              "text": "En el software hospitalario, porque su demanda es menos elástic"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "En ambos escenarios la incidencia siempre es idéntic"
+            },
+            {
+              "id": "o5",
+              "text": ""
+            },
+            {
+              "id": "o6",
+              "text": "En ninguno, porque los impuestos siempre los paga el productor."
+            },
+            {
+              "id": "o7",
+              "text": "⌃"
+            }
+          ],
+          "correctOptionId": "o3",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_17",
+          "text": "Se puntúa 1,00 sobre 1,00 6. Una empresa ecuatoriana desarrolla software de gestión hospitalari",
+          "options": [
+            {
+              "id": "o1",
+              "text": "El Estado analiza aplicar un impuesto adicional al sector tecnológico para aumentar la recaudación fiscal. Los analistas económicos advierten que la demanda de este software es muy sensible al precio. ¿Cuál sería la consecuencia más probable?"
+            },
+            {
+              "id": "o2",
+              "text": "La recaudación podría disminuir porque la cantidad demandada se reduciría considerablement"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "La recaudación aumentaría sin afectar las ventas."
+            },
+            {
+              "id": "o5",
+              "text": "La elasticidad dejaría de influir sobre la incidencia tributari"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "El impuesto sería absorbido únicamente por los consumidores."
+            },
+            {
+              "id": "o8",
+              "text": "⌃"
+            }
+          ],
+          "correctOptionId": "o6",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_18",
+          "text": "Se puntúa 1,00 sobre 1,00 17. Una empresa desarrolla aplicaciones móviles que recopilan grandes volúmenes de datos personales sin informar claramente a los usuarios. Posteriormente, esta información es utilizada por terceros para campañas publicitarias invasivas que afectan a millones de consumidores. ¿Cuál es la principal falla de mercado presente?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Externalidad positiva asociada a la publicidad personalizad"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Competencia perfecta entre plataformas digitales."
+            },
+            {
+              "id": "o4",
+              "text": "Externalidad negativa derivada del uso de información que genera costos sociales no internalizados."
+            },
+            {
+              "id": "o5",
+              "text": "Mercado eficiente debido al libre intercambio de información."
+            }
+          ],
+          "correctOptionId": "o2",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_19",
+          "text": "Se puntúa 1,00 sobre 1,00 30. Una empresa de software financiero analiza el impacto de una política comercial proteccionista sobre el mercado latinoamericano. Los directivos concluyen que proteger excesivamente la industria nacional podría favorecer a ciertas empresas en el corto plazo, pero también disminuir la innovación y la competencia en el largo plazo. ¿Cuál de las siguientes conclusiones refleja mejor el análisis económico?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "El proteccionismo genera beneficios permanentes sin efectos negativos sobre la eficienci"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "La política comercial debe equilibrar la protección de sectores estratégicos con la competencia, la innovación y el bienestar social."
+            },
+            {
+              "id": "o4",
+              "text": "Los aranceles no afectan la productividad de las empresas tecnológicas."
+            },
+            {
+              "id": "o5",
+              "text": "La eliminación total del comercio internacional maximiza el crecimiento económico."
+            }
+          ],
+          "correctOptionId": "o2",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_20",
+          "text": "Se puntúa 1,00 sobre 1,00 35. Una empresa ecuatoriana analiza instalar un nuevo centro de datos. Existen dos alternativas: utilizar tecnología convencional de bajo costo que incrementa considerablemente el consumo energético o invertir en infraestructura verde con mayor costo inicial, pero menores impactos ambientales y beneficios para toda la comunida",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Si el Estado busca maximizar el bienestar social, ¿qué medida sería la más eficiente?"
+            },
+            {
+              "id": "o2",
+              "text": "Obligar a todas las empresas a utilizar exclusivamente tecnología extranjer"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "Eliminar todos los impuestos tecnológicos."
+            },
+            {
+              "id": "o5",
+              "text": "Incrementar los aranceles sobre equipos eficientes."
+            },
+            {
+              "id": "o6",
+              "text": "Subsidiar parcialmente la infraestructura sostenible para incentivar la internalización de beneficios sociales."
+            }
+          ],
+          "correctOptionId": "o3",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_21",
+          "text": "Se puntúa 1,00 sobre 1,00 14. Una empresa desarrolla un sistema gratuito para detectar noticias falsas utilizando inteligencia artificial. Diversas instituciones educativas utilizan el sistema para mejorar la alfabetización digital de sus estudiantes, generando beneficios sociales que superan los ingresos obtenidos por la empres",
+          "options": [
+            {
+              "id": "o1",
+              "text": "¿Qué política económica sería la más eficiente?"
+            },
+            {
+              "id": "o2",
+              "text": "Aplicar un impuesto adicional al softwar"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "Incrementar las barreras de entrada para nuevos competidores."
+            },
+            {
+              "id": "o5",
+              "text": "Otorgar subsidios para incentivar la producción de este tipo de innovación."
+            },
+            {
+              "id": "o6",
+              "text": "Regular el precio máximo del softwar"
+            },
+            {
+              "id": "o7",
+              "text": ""
+            }
+          ],
+          "correctOptionId": "o7",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_22",
+          "text": "Se puntúa 1,00 sobre 1,00 11. Una empresa de desarrollo de inteligencia artificial implementa un algoritmo de código abierto para optimizar el consumo energético de centros de datos. Varias empresas tecnológicas utilizan gratuitamente esta innovación y logran reducir significativamente sus costos operativos y emisiones de CO₂, aunque la empresa desarrolladora no recibe compensación económica adicional. Desde la teoría económica, ¿qué tipo de situación representa este caso?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Un bien privado sin efectos sobre otros agentes."
+            },
+            {
+              "id": "o2",
+              "text": "Un monopolio natural debido al conocimiento compartido."
+            },
+            {
+              "id": "o3",
+              "text": "Una externalidad positiva de producción que genera beneficios para terceros."
+            },
+            {
+              "id": "o4",
+              "text": "Una externalidad negativa de producción."
+            }
+          ],
+          "correctOptionId": "o3",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_23",
+          "text": "Se puntúa 1,00 sobre 1,00 31. Una empresa ecuatoriana desarrolla una plataforma de inteligencia artificial para optimizar el consumo energético de edificios inteligentes. El sistema reduce el consumo eléctrico de las organizaciones que lo adquieren y, adicionalmente, disminuye la demanda de energía del sistema nacional, beneficiando incluso a usuarios que nunca utilizaron el softwar",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Sin embargo, debido a que gran parte de estos beneficios no son remunerados, la empresa considera abandonar el proyecto. ¿Cuál sería la política económica más eficiente para maximizar el bienestar social?"
+            },
+            {
+              "id": "o2",
+              "text": "Establecer un precio máximo para reducir las ganancias de la empres"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "Prohibir la comercialización internacional del softwar"
+            },
+            {
+              "id": "o5",
+              "text": ""
+            },
+            {
+              "id": "o6",
+              "text": "Incrementar los impuestos sobre la plataforma para aumentar la recaudación fiscal."
+            },
+            {
+              "id": "o7",
+              "text": "Otorgar subsidios o incentivos que permitan acercar la producción al nivel socialmente óptimo."
+            }
+          ],
+          "correctOptionId": "o5",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_24",
+          "text": "Se puntúa 1,00 sobre 1,00 22. Una empresa de desarrollo de software empresarial utiliza servidores fabricados en China para ofrecer servicios de computación en la nube en América Latin",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Debido al incremento de aranceles internacionales, el precio del hardware aumenta considerablemente, afectando la rentabilidad de la empres"
+            },
+            {
+              "id": "o2",
+              "text": "¿Cuál es la mejor interpretación económica de esta situación?"
+            },
+            {
+              "id": "o3",
+              "text": "Los aranceles únicamente afectan a los consumidores finales."
+            },
+            {
+              "id": "o4",
+              "text": "Los aranceles incrementan el costo de los insumos, reduciendo la competitividad de las empresas que dependen de cadenas globales de suministro."
+            },
+            {
+              "id": "o5",
+              "text": "La empresa aumenta automáticamente su productivida"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            },
+            {
+              "id": "o7",
+              "text": "Los aranceles eliminan la competencia entre proveedores tecnológicos."
+            }
+          ],
+          "correctOptionId": "o6",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_25",
+          "text": "Se puntúa 1,00 sobre 1,00 36. Un país decide proteger completamente a su industria nacional de software mediante elevados aranceles sobre plataformas extranjeras. Cinco años después, las empresas locales dominan el mercado interno, pero presentan menores niveles de innovación y productividad frente a competidores internacionales. ¿Cuál explica mejor este resultado?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "La ausencia de competencia reduce los incentivos para innovar y mejorar la eficienci"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "El proteccionismo elimina todas las fallas de mercado."
+            },
+            {
+              "id": "o4",
+              "text": "Los aranceles incrementan permanentemente la competitividad internacional."
+            },
+            {
+              "id": "o5",
+              "text": "La productividad depende únicamente del tamaño del mercado interno."
+            },
+            {
+              "id": "o6",
+              "text": "⌃"
+            }
+          ],
+          "correctOptionId": "o2",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_26",
+          "text": "Se puntúa 1,00 sobre 1,00 23. Una empresa ecuatoriana de comercio electrónico analiza importar servidores desde tres países diferentes. El país A ofrece precios bajos pero enfrenta altos aranceles; el país B posee un tratado comercial con Ecuador y el país C vende equipos de mayor calidad, aunque con costos logísticos elevados. Desde la perspectiva económica, ¿qué criterio debería priorizar la empresa?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Analizar el costo económico total considerando aranceles, logística, riesgos y eficiencia operativ"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Elegir únicamente el proveedor con el menor precio nominal."
+            },
+            {
+              "id": "o4",
+              "text": "Seleccionar el país con mayor crecimiento económico."
+            },
+            {
+              "id": "o5",
+              "text": "Importar simultáneamente desde todos los países para evitar riesgos."
+            },
+            {
+              "id": "o6",
+              "text": "⌃"
+            }
+          ],
+          "correctOptionId": "o2",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_27",
+          "text": "Se puntúa 1,00 sobre 1,00 19. Una empresa internacional de computación en la nube consume grandes cantidades de agua para refrigerar sus servidores. La disminución en la disponibilidad del recurso comienza a afectar a comunidades cercanas, pero estos costos no forman parte de la estructura financiera de la empres",
+          "options": [
+            {
+              "id": "o1",
+              "text": "¿Qué consecuencia económica produce esta situación?"
+            },
+            {
+              "id": "o2",
+              "text": "La empresa alcanza automáticamente el equilibrio social."
+            },
+            {
+              "id": "o3",
+              "text": "La asignación de recursos es eficiente porque existe competencia internacional."
+            },
+            {
+              "id": "o4",
+              "text": "El costo marginal privado es inferior al costo marginal social, generando una sobreproducción del servicio respecto al óptimo social."
+            },
+            {
+              "id": "o5",
+              "text": "El costo social es menor que el costo privado, reduciendo la producción eficient"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            }
+          ],
+          "correctOptionId": "o6",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_28",
+          "text": "Se puntúa 1,00 sobre 1,00 28. Una empresa de desarrollo de aplicaciones móviles compara dos escenarios: importar servidores desde un país con libre comercio o adquirir equipos nacionales con menor capacidad tecnológica pero sin aranceles. ¿Qué análisis económico permitiría tomar una decisión más eficiente?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Evaluar el costo-beneficio considerando productividad, vida útil, costos operativos y restricciones comerciales."
+            },
+            {
+              "id": "o2",
+              "text": "Elegir siempre la importación internacional."
+            },
+            {
+              "id": "o3",
+              "text": "Elegir siempre la producción nacional."
+            },
+            {
+              "id": "o4",
+              "text": "Comparar exclusivamente el precio de compr"
+            },
+            {
+              "id": "o5",
+              "text": ""
+            }
+          ],
+          "correctOptionId": "o5",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_29",
+          "text": "Se puntúa 1,00 sobre 1,00 15. Dos empresas tecnológicas comparten un mismo centro de procesamiento de datos. Una de ellas instala servidores de alto consumo energético que elevan considerablemente los costos de refrigeración del edificio. Ambas compañías poseen contratos claramente definidos sobre el uso de la infraestructura y pueden renegociar sus condiciones. Según el Teorema de Coase, ¿qué solución sería la más eficiente?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Negociar entre las partes para asignar eficientemente los costos derivados del consumo adicional."
+            },
+            {
+              "id": "o2",
+              "text": "Eliminar los derechos de propiedad sobre la infraestructur"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "Nacionalizar el centro de datos."
+            },
+            {
+              "id": "o5",
+              "text": "Esperar que el mercado elimine espontáneamente la externalida"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            }
+          ],
+          "correctOptionId": "o6",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_30",
+          "text": "Se puntúa 1,00 sobre 1,00 40. Una empresa de Sistemas de Información presenta al directorio dos estrategias para los próximos diez años. La primera propone proteger el mercado nacional mediante barreras comerciales y limitar la competencia internacional. La segunda plantea competir globalmente invirtiendo en innovación, investigación, inteligencia artificial, talento humano y cooperación internacional. El análisis económico concluye que la segunda alternativa implica mayores inversiones iniciales, pero también mayor productividad, crecimiento y competitividad sostenibles. Desde la perspectiva de la economía moderna y la transformación digital, ¿cuál decisión resulta más eficiente?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Limitar el acceso a nuevas tecnologías para reducir costos de inversión."
+            },
+            {
+              "id": "o2",
+              "text": "Mantener barreras comerciales permanentes para evitar toda competencia extranjer"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "Sustituir completamente las importaciones sin desarrollar innovación."
+            },
+            {
+              "id": "o5",
+              "text": "Competir mediante innovación, productividad y desarrollo tecnológico, aprovechando la integración con los mercados internacionales."
+            }
+          ],
+          "correctOptionId": "o3",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_31",
+          "text": "Se puntúa 1,00 sobre 1,00 18. Un gobierno analiza subsidiar proyectos nacionales de ciberseguridad debido a que una mayor protección digital disminuye el riesgo de ataques informáticos sobre instituciones públicas, empresas privadas y ciudadanos. ¿Cuál es el argumento económico más sólido para justificar el subsidio?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "El subsidio elimina completamente las amenazas informáticas."
+            },
+            {
+              "id": "o2",
+              "text": "La ciberseguridad genera beneficios que trascienden a quienes realizan directamente la inversión."
+            },
+            {
+              "id": "o3",
+              "text": "Los subsidios incrementan automáticamente la competencia internacional."
+            },
+            {
+              "id": "o4",
+              "text": "Toda inversión tecnológica debe ser subsidiada independientemente de su impacto."
+            }
+          ],
+          "correctOptionId": "o2",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_32",
+          "text": "Se puntúa 1,00 sobre 1,00 37. Una empresa internacional evalúa instalar un laboratorio de investigación en inteligencia artificial en Ecuador. Entre los factores analizados se encuentran estabilidad económica, infraestructura digital, disponibilidad de talento humano, tratados comerciales y seguridad jurídic",
+          "options": [
+            {
+              "id": "o1",
+              "text": "¿Cuál representa el enfoque económico más adecuado para la toma de decisión?"
+            },
+            {
+              "id": "o2",
+              "text": "Evaluar integralmente el costo de oportunidad, los riesgos, la productividad esperada y el entorno institucional."
+            },
+            {
+              "id": "o3",
+              "text": "Elegir exclusivamente el país con menores impuestos."
+            },
+            {
+              "id": "o4",
+              "text": "Seleccionar el país con mayor población."
+            },
+            {
+              "id": "o5",
+              "text": "Analizar únicamente el costo de la mano de obr"
+            },
+            {
+              "id": "o6",
+              "text": ""
+            }
+          ],
+          "correctOptionId": "o6",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_33",
+          "text": "Se puntúa 1,00 sobre 1,00 25. Una empresa multinacional decide trasladar parte de su producción de dispositivos electrónicos desde China hacia México y Vietnam para reducir los efectos de la guerra comercial con Estados Unidos. Desde la teoría económica, este fenómeno corresponde principalmente a:",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Eliminación de la globalización económic"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Formación de un monopolio internacional."
+            },
+            {
+              "id": "o4",
+              "text": "Sustitución completa del comercio internacional por producción local."
+            },
+            {
+              "id": "o5",
+              "text": "Diversificación y reconfiguración de las cadenas globales de suministro para disminuir riesgos comerciales."
+            }
+          ],
+          "correctOptionId": "o2",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_34",
+          "text": "Se puntúa 1,00 sobre 1,00 27. Una compañía internacional especializada en inteligencia artificial observa que varios países comienzan a imponer restricciones a la exportación de semiconductores avanzados. Como consecuencia, el desarrollo de nuevos modelos de IA se ralentiza significativament",
+          "options": [
+            {
+              "id": "o1",
+              "text": "¿Cuál es la explicación económica más consistente?"
+            },
+            {
+              "id": "o2",
+              "text": "Los semiconductores constituyen un insumo estratégico cuya escasez afecta la productividad y la innovación tecnológic"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "La innovación tecnológica depende únicamente del capital humano."
+            },
+            {
+              "id": "o5",
+              "text": "Los semiconductores no tienen incidencia sobre el crecimiento económico."
+            },
+            {
+              "id": "o6",
+              "text": "Las restricciones incrementan automáticamente la competenci"
+            },
+            {
+              "id": "o7",
+              "text": ""
+            },
+            {
+              "id": "o8",
+              "text": "⌃"
+            }
+          ],
+          "correctOptionId": "o7",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_35",
+          "text": "Se puntúa 1,00 sobre 1,00 1. Una empresa ecuatoriana de desarrollo de software empresarial ofrece un sistema ERP bajo el modelo SaaS (Software as a Service). El Gobierno decide establecer un impuesto del 18% sobre todos los servicios digitales. Los estudios de mercado muestran que existen numerosos proveedores internacionales con productos similares y que los clientes pueden cambiar de plataforma sin mayores costos. Después de seis meses, la empresa observa una importante reducción en la cantidad de contratos nuevos. Desde la teoría de la elasticidad, ¿cuál explica mejor el comportamiento observado?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "La demanda es perfectamente inelástica debido a que el software es un bien tecnológico."
+            },
+            {
+              "id": "o2",
+              "text": "La oferta es perfectamente inelástica y los consumidores no modifican sus decisiones."
+            },
+            {
+              "id": "o3",
+              "text": "La demanda es altamente elástica, por lo que el incremento del precio redujo significativamente la cantidad demandad"
+            },
+            {
+              "id": "o4",
+              "text": ""
+            },
+            {
+              "id": "o5",
+              "text": "La demanda es inelástica, por lo que el impuesto fue absorbido casi totalmente por los consumidores."
+            },
+            {
+              "id": "o6",
+              "text": "⌃"
+            }
+          ],
+          "correctOptionId": "o6",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_36",
+          "text": "Se puntúa 1,00 sobre 1,00 34. Una empresa desarrolla un software de código abierto para hospitales públicos que permite reducir errores médicos mediante inteligencia artificial. Aunque el proyecto mejora la calidad del sistema de salud nacional, la organización obtiene pocos ingresos debido a que muchas instituciones utilizan el software sin contribuir a su financiamiento. ¿Cuál es la explicación económica más adecuada?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "El software constituye un bien privado sin efectos externos."
+            },
+            {
+              "id": "o2",
+              "text": "Existe una sobreproducción causada por monopolio."
+            },
+            {
+              "id": "o3",
+              "text": "Se presenta competencia perfecta sin fallas de mercado."
+            },
+            {
+              "id": "o4",
+              "text": "El mercado produce una cantidad inferior al nivel socialmente eficiente debido a una externalidad positiv"
+            },
+            {
+              "id": "o5",
+              "text": ""
+            },
+            {
+              "id": "o6",
+              "text": "⌃"
+            }
+          ],
+          "correctOptionId": "o5",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_37",
+          "text": "Se puntúa 1,00 sobre 1,00 8. Un proveedor internacional de plataformas de inteligencia artificial incrementa sus precios debido a nuevos impuestos. Las pequeñas empresas dejan de contratar el servicio, mientras que las grandes corporaciones continúan utilizándolo. ¿Qué interpretación económica es la más consistente?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Los impuestos afectan únicamente a empresas pequeñas."
+            },
+            {
+              "id": "o2",
+              "text": "Todos los consumidores presentan la misma elasticida"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "La incidencia tributaria depende exclusivamente de la ofert"
+            },
+            {
+              "id": "o5",
+              "text": ""
+            },
+            {
+              "id": "o6",
+              "text": "La elasticidad de la demanda puede variar según el tipo de consumidor."
+            }
+          ],
+          "correctOptionId": "o5",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_38",
+          "text": "Se puntúa 1,00 sobre 1,00 12. Una compañía de comercio electrónico instala un centro de datos cerca de una zona residencial. Aunque cumple la normativa vigente, el incremento del consumo eléctrico obliga a la empresa distribuidora a construir nueva infraestructura, cuyos costos son asumidos por toda la comunidad mediante incrementos tarifarios. ¿Cuál es la interpretación económica más adecuada?",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Se presenta una externalidad negativa porque parte del costo social no es asumido por quien genera la activida"
+            },
+            {
+              "id": "o2",
+              "text": ""
+            },
+            {
+              "id": "o3",
+              "text": "Se trata de una externalidad positiva debido al crecimiento económico local."
+            },
+            {
+              "id": "o4",
+              "text": "Existe competencia perfecta ya que todos pagan la misma tarif"
+            },
+            {
+              "id": "o5",
+              "text": ""
+            },
+            {
+              "id": "o6",
+              "text": "No existe falla de mercado porque la empresa cumple la legislación."
+            },
+            {
+              "id": "o7",
+              "text": "⌃"
+            }
+          ],
+          "correctOptionId": "o5",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_39",
+          "text": "Se puntúa 1,00 sobre 1,00 2. Una universidad analiza contratar almacenamiento en la nube para respaldar la información académic",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Existen varios proveedores internacionales con precios similares. Debido a un nuevo impuesto a los servicios tecnológicos extranjeros, el precio del servicio aumenta un 12%. Como resultado, la universidad migra rápidamente hacia un proveedor nacional. ¿Cuál es la mejor interpretación económica?"
+            },
+            {
+              "id": "o2",
+              "text": "La oferta perdió elasticidad por efecto de la competenci"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "El impuesto incrementó únicamente el excedente del consumidor."
+            },
+            {
+              "id": "o5",
+              "text": "La demanda presenta alta elasticidad debido a la existencia de sustitutos cercanos."
+            },
+            {
+              "id": "o6",
+              "text": "La demanda es perfectamente inelástica porque el servicio es indispensabl"
+            },
+            {
+              "id": "o7",
+              "text": ""
+            }
+          ],
+          "correctOptionId": "o7",
+          "explanation": ""
+        },
+        {
+          "id": "qu8_40",
+          "text": "Se puntúa 1,00 sobre 1,00 4. Una empresa financiera implementa inteligencia artificial para detectar fraudes bancarios. Debido al incremento de impuestos sobre infraestructura tecnológica importada, el costo del proyecto aumenta considerablement",
+          "options": [
+            {
+              "id": "o1",
+              "text": "Sin embargo, la institución continúa con la implementación debido al alto beneficio esperado. ¿Qué característica presenta la demanda del proyecto tecnológico?"
+            },
+            {
+              "id": "o2",
+              "text": "Elasticidad unitari"
+            },
+            {
+              "id": "o3",
+              "text": ""
+            },
+            {
+              "id": "o4",
+              "text": "Baja elasticidad porque los beneficios esperados superan el incremento del costo."
+            },
+            {
+              "id": "o5",
+              "text": "Alta elasticidad debido a múltiples sustitutos."
+            },
+            {
+              "id": "o6",
+              "text": "Elasticidad infinita por tratarse de innovación."
+            }
+          ],
+          "correctOptionId": "o3",
+          "explanation": ""
         }
       ]
     }
